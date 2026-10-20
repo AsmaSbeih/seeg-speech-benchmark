@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated manuscript."
+title: "A Controlled Benchmark for sEEG-to-Speech Spectrogram Reconstruction with Template and Noise-Input Controls"
+type: software
+authors:
+  - family-names: Sbaih
+    given-names: Asma
+    orcid: "https://orcid.org/0000-0002-2334-4709"
+    affiliation: "University of Seville"
+  - family-names: García-Gutiérrez
+    given-names: Jorge
+    orcid: "https://orcid.org/0000-0002-1300-4647"
+    affiliation: "University of Seville"
+  - family-names: Benavides
+    given-names: David
+    orcid: "https://orcid.org/0000-0002-8449-3273"
+    affiliation: "University of Seville"
+license: MIT
