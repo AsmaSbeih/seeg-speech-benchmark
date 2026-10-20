@@ -1,0 +1,461 @@
+macro,value,source
+NABasInsM,0.219,stageA seeds 42/123/456 mean over participants then seeds
+NABasInsS,0.012,sample SD over 3 seeds
+NABasMseM,1.97,stageA seeds 42/123/456 mean over participants then seeds
+NABasMseS,0.02,sample SD over 3 seeds
+NABasPccM,0.705,stageA seeds 42/123/456 mean over participants then seeds
+NABasPccS,0.004,sample SD over 3 seeds
+NABasResM,0.371,stageA seeds 42/123/456 mean over participants then seeds
+NABasResS,0.002,sample SD over 3 seeds
+NAConInsM,0.167,stageA seeds 42/123/456 mean over participants then seeds
+NAConInsS,0.006,sample SD over 3 seeds
+NAConMseM,2.59,stageA seeds 42/123/456 mean over participants then seeds
+NAConMseS,0.01,sample SD over 3 seeds
+NAConPccM,0.590,stageA seeds 42/123/456 mean over participants then seeds
+NAConPccS,0.003,sample SD over 3 seeds
+NAConResM,0.240,stageA seeds 42/123/456 mean over participants then seeds
+NAConResS,0.024,sample SD over 3 seeds
+NAEstoiBas,-0.015,stage A eSTOI
+NAEstoiCon,-0.014,stage A eSTOI
+NAEstoiCst,-0.003,"constant control eSTOI, Stage A"
+NAEstoiHyb,0.025,stage A eSTOI
+NAEstoiLin,-0.006,stage A eSTOI
+NAEstoiNeu,-0.010,stage A eSTOI
+NAEstoiTem,0.002,stage A eSTOI
+NAEstoiTru,0.587,stage A eSTOI
+NAHBInsD,+0.013,mean paired difference
+NAHBInsP,0.432,"exact Wilcoxon, participants (seed-avg)"
+NAHBInsWin,6,participants with Hybrid > Baseline
+NAHBPccD,-0.009,mean paired difference
+NAHBPccP,0.322,"exact Wilcoxon, participants (seed-avg)"
+NAHBPccWin,3,participants with Hybrid > Baseline
+NAHBResD,-0.002,mean paired difference
+NAHBResP,0.922,"exact Wilcoxon, participants (seed-avg)"
+NAHBResWin,6,participants with Hybrid > Baseline
+NAHBasInsD,+0.013,Stage A mean diff
+NAHBasInsHolm,0.967,Stage A Holm-adjusted over 12 tests
+NAHBasInsP,0.432,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHBasInsWin,6,"participants Hybrid > model, Stage A"
+NAHBasPccD,-0.009,Stage A mean diff
+NAHBasPccHolm,0.967,Stage A Holm-adjusted over 12 tests
+NAHBasPccP,0.322,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHBasPccWin,3,"participants Hybrid > model, Stage A"
+NAHBasResD,-0.002,Stage A mean diff
+NAHBasResHolm,0.967,Stage A Holm-adjusted over 12 tests
+NAHBasResP,0.922,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHBasResWin,6,"participants Hybrid > model, Stage A"
+NAHCompAllPos,1,1 if the Hybrid mean is above all 9 comparator-metric cells in Stage A
+NAHCompMaxHolm,0.055,max Holm-adjusted p of the 9 Stage A comparisons
+NAHCompMaxP,0.014,max uncorrected p of the 9 Stage A comparisons
+NAHCompMinWin,8,"min participants (of 10) Hybrid > comparator, Stage A, 9 comparisons"
+NAHCompNSigHolm,8,how many of the 9 Stage A comparisons have Holm p < 0.05
+NAHConInsD,+0.065,Stage A mean diff
+NAHConInsHolm,0.029,Stage A Holm-adjusted over 12 tests
+NAHConInsP,0.006,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHConInsWin,9,"participants Hybrid > model, Stage A"
+NAHConPccD,+0.106,Stage A mean diff
+NAHConPccHolm,0.023,Stage A Holm-adjusted over 12 tests
+NAHConPccP,0.002,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHConPccWin,10,"participants Hybrid > model, Stage A"
+NAHConResD,+0.129,Stage A mean diff
+NAHConResHolm,0.023,Stage A Holm-adjusted over 12 tests
+NAHConResP,0.002,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHConResWin,10,"participants Hybrid > model, Stage A"
+NAHLinInsD,+0.071,Stage A mean diff
+NAHLinInsHolm,0.055,Stage A Holm-adjusted over 12 tests
+NAHLinInsP,0.014,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHLinInsWin,8,"participants Hybrid > model, Stage A"
+NAHLinPccD,+0.224,Stage A mean diff
+NAHLinPccHolm,0.023,Stage A Holm-adjusted over 12 tests
+NAHLinPccP,0.002,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHLinPccWin,10,"participants Hybrid > model, Stage A"
+NAHLinResD,+0.237,Stage A mean diff
+NAHLinResHolm,0.023,Stage A Holm-adjusted over 12 tests
+NAHLinResP,0.002,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHLinResWin,10,"participants Hybrid > model, Stage A"
+NAHNeuInsD,+0.106,Stage A mean diff
+NAHNeuInsHolm,0.023,Stage A Holm-adjusted over 12 tests
+NAHNeuInsP,0.002,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHNeuInsWin,10,"participants Hybrid > model, Stage A"
+NAHNeuPccD,+0.269,Stage A mean diff
+NAHNeuPccHolm,0.023,Stage A Holm-adjusted over 12 tests
+NAHNeuPccP,0.002,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHNeuPccWin,10,"participants Hybrid > model, Stage A"
+NAHNeuResD,+0.161,Stage A mean diff
+NAHNeuResHolm,0.023,Stage A Holm-adjusted over 12 tests
+NAHNeuResP,0.002,"Stage A exact Wilcoxon Hybrid vs model, participants (seed-avg)"
+NAHNeuResWin,10,"participants Hybrid > model, Stage A"
+NAHybEstoiVsCstP,0.105,Stage A hybrid vs constant estoi
+NAHybEstoiVsCstWin,7,participants hybrid > constant
+NAHybEstoiVsTemP,0.193,A hybrid vs template estoi
+NAHybEstoiVsTemWin,7,wins
+NAHybInsM,0.232,stageA seeds 42/123/456 mean over participants then seeds
+NAHybInsS,0.008,sample SD over 3 seeds
+NAHybMseM,1.98,stageA seeds 42/123/456 mean over participants then seeds
+NAHybMseS,0.02,sample SD over 3 seeds
+NAHybPccM,0.696,stageA seeds 42/123/456 mean over participants then seeds
+NAHybPccS,0.004,sample SD over 3 seeds
+NAHybResM,0.369,stageA seeds 42/123/456 mean over participants then seeds
+NAHybResS,0.007,sample SD over 3 seeds
+NAHybStoiVsCstP,0.002,Stage A hybrid vs constant stoi
+NAHybStoiVsCstWin,0,participants hybrid > constant
+NAHybStoiVsTemLoss,8,participants with template STOI > hybrid (no ties assumed)
+NAHybStoiVsTemP,0.020,A hybrid vs template stoi
+NAHybStoiVsTemWin,2,wins
+NALinInsM,0.161,stageA linear (deterministic)
+NALinMseM,3.09,stageA linear (deterministic)
+NALinPccM,0.472,stageA linear (deterministic)
+NALinResM,0.132,stageA linear (deterministic)
+NAMcdBas,31.7,stage A MCD (log-mel cepstral)
+NAMcdCon,33.9,stage A MCD (log-mel cepstral)
+NAMcdHyb,31.5,stage A MCD (log-mel cepstral)
+NAMcdLin,35.2,stage A MCD (log-mel cepstral)
+NAMcdNeu,33.3,stage A MCD (log-mel cepstral)
+NAMcdSpBas,65.4,speech frames
+NAMcdSpCon,71.5,speech frames
+NAMcdSpHyb,66.6,speech frames
+NAMcdSpLin,72.0,speech frames
+NAMcdSpNeu,68.3,speech frames
+NAMcdSpTem,64.4,speech frames
+NAMcdTem,30.2,stage A MCD (log-mel cepstral)
+NANeuInsM,0.126,stageA seeds 42/123/456 mean over participants then seeds
+NANeuInsS,0.109,sample SD over 3 seeds
+NANeuMseM,2.91,stageA seeds 42/123/456 mean over participants then seeds
+NANeuMseS,1.00,sample SD over 3 seeds
+NANeuPccConv,0.640,"neuroincept mean of seeds 42,456"
+NANeuPccM,0.427,stageA seeds 42/123/456 mean over participants then seeds
+NANeuPccS,0.369,sample SD over 3 seeds
+NANeuPccSeedCollapsed,0.000,neuroincept seed 123 PCC
+NANeuResM,0.208,stageA seeds 42/123/456 mean over participants then seeds
+NANeuResS,0.187,sample SD over 3 seeds
+NANeuSeedCollapsed,123,seed with PCC 0.000
+NANullBasIns,0.005,stageA noise-input control (seed 42)
+NANullBasPcc,0.044,stageA noise-input control (seed 42)
+NANullBasRes,-0.007,stageA noise-input control (seed 42)
+NANullConIns,-0.017,stageA noise-input control (seed 42)
+NANullConPcc,-0.009,stageA noise-input control (seed 42)
+NANullConRes,-0.008,stageA noise-input control (seed 42)
+NANullHybIns,0.041,stageA noise-input control (seed 42)
+NANullHybPcc,0.170,stageA noise-input control (seed 42)
+NANullHybRes,-0.009,stageA noise-input control (seed 42)
+NANullNeuIns,0.000,stageA noise-input control (seed 42)
+NANullNeuPcc,0.000,stageA noise-input control (seed 42)
+NANullNeuRes,-0.007,stageA noise-input control (seed 42)
+NANullResMax,-0.007,max residual PCC of noise controls
+NANullResMin,-0.009,min residual PCC of noise controls
+NAPairsAboveCstStoi,0,participant-system pairs (of 60) in Stage A whose STOI exceeds the constant control
+NAStoiBas,0.371,stage A STOI mean over participants
+NAStoiCon,0.293,stage A STOI mean over participants
+NAStoiCst,0.512,"constant control STOI, Stage A, mean over 10 participants"
+NAStoiHyb,0.337,stage A STOI mean over participants
+NAStoiLin,0.377,stage A STOI mean over participants
+NAStoiNeu,0.286,stage A STOI mean over participants
+NAStoiTem,0.372,stage A STOI mean over participants
+NAStoiTru,0.718,stage A STOI mean over participants
+NASystemsAboveCstStoi,0,Stage A systems whose mean STOI exceeds the constant control
+NATBasInsD,-0.017,mean diff vs template
+NATBasInsP,0.275,exact Wilcoxon vs template
+NATBasInsWin,2,participants model > template
+NATBasPccD,-0.039,mean diff vs template
+NATBasPccP,0.084,exact Wilcoxon vs template
+NATBasPccWin,4,participants model > template
+NATBelowMaxP,0.004,"max exact p of Linear/ConvED-SR/NeuroIncept vs template, Stage A"
+NATConInsD,-0.069,mean diff vs template
+NATConInsP,0.049,exact Wilcoxon vs template
+NATConInsWin,2,participants model > template
+NATConPccD,-0.154,mean diff vs template
+NATConPccP,0.004,exact Wilcoxon vs template
+NATConPccWin,1,participants model > template
+NATHybInsD,-0.004,mean diff vs template
+NATHybInsP,0.625,exact Wilcoxon vs template
+NATHybInsWin,4,participants model > template
+NATHybPccD,-0.048,mean diff vs template
+NATHybPccP,0.105,exact Wilcoxon vs template
+NATHybPccWin,3,participants model > template
+NATLinInsD,-0.075,mean diff
+NATLinInsP,0.049,linear vs template
+NATLinInsWin,1,linear > template
+NATLinPccD,-0.272,mean diff
+NATLinPccP,0.002,linear vs template
+NATLinPccWin,0,linear > template
+NATNeuInsD,-0.110,mean diff vs template
+NATNeuInsP,0.002,exact Wilcoxon vs template
+NATNeuInsWin,0,participants model > template
+NATNeuPccD,-0.318,mean diff vs template
+NATNeuPccP,0.002,exact Wilcoxon vs template
+NATNeuPccWin,0,participants model > template
+NATemInsM,0.236,stageA template in-speech
+NATemPccM,0.744,stageA template
+NBBasBeatT,63,participant-folds with PCC > template
+NBBasIns,0.270,stageB mean over 100 participant-folds
+NBBasLow,0,participant-folds with PCC < 0.3
+NBBasMse,1.74,stageB mean over 100 participant-folds
+NBBasPcc,0.754,stageB mean over 100 participant-folds
+NBBasRes,0.475,stageB mean over 100 participant-folds
+NBConBeatT,34,participant-folds with PCC > template
+NBConIns,0.193,stageB mean over 100 participant-folds
+NBConLow,1,participant-folds with PCC < 0.3
+NBConMse,2.54,stageB mean over 100 participant-folds
+NBConPcc,0.623,stageB mean over 100 participant-folds
+NBConRes,0.321,stageB mean over 100 participant-folds
+NBEstoiBas,0.015,stage B eSTOI
+NBEstoiCon,0.000,stage B eSTOI
+NBEstoiCst,0.004,constant control eSTOI
+NBEstoiHyb,0.025,stage B eSTOI
+NBEstoiLin,0.004,stage B eSTOI
+NBEstoiNeu,0.001,stage B eSTOI
+NBEstoiTem,-0.012,stage B eSTOI
+NBEstoiTru,0.569,stage B eSTOI
+NBHBMseD,-0.01,mean paired MSE diff
+NBHBasInsD,+0.030,mean diff
+NBHBasInsHolm,0.023,Holm-adjusted over 12 tests
+NBHBasInsP,0.006,"exact Wilcoxon Hybrid vs model, participants"
+NBHBasInsWin,9,participants Hybrid > model
+NBHBasPccD,-0.002,mean diff
+NBHBasPccHolm,0.984,Holm-adjusted over 12 tests
+NBHBasPccP,0.625,"exact Wilcoxon Hybrid vs model, participants"
+NBHBasPccWin,4,participants Hybrid > model
+NBHBasResD,+0.003,mean diff
+NBHBasResHolm,0.984,Holm-adjusted over 12 tests
+NBHBasResP,0.492,"exact Wilcoxon Hybrid vs model, participants"
+NBHBasResWin,5,participants Hybrid > model
+NBHCompMaxHolm,0.023,max Holm-adjusted p of the 9 comparisons
+NBHCompMaxP,0.004,"max exact p, Hybrid vs Linear/ConvED/NeuroIncept (9 comparisons)"
+NBHCompMinWin,9,min participants Hybrid > comparator
+NBHConInsD,+0.107,mean diff
+NBHConInsHolm,0.023,Holm-adjusted over 12 tests
+NBHConInsP,0.002,"exact Wilcoxon Hybrid vs model, participants"
+NBHConInsWin,10,participants Hybrid > model
+NBHConPccD,+0.130,mean diff
+NBHConPccHolm,0.023,Holm-adjusted over 12 tests
+NBHConPccP,0.002,"exact Wilcoxon Hybrid vs model, participants"
+NBHConPccWin,10,participants Hybrid > model
+NBHConResD,+0.157,mean diff
+NBHConResHolm,0.023,Holm-adjusted over 12 tests
+NBHConResP,0.002,"exact Wilcoxon Hybrid vs model, participants"
+NBHConResWin,10,participants Hybrid > model
+NBHLinInsD,+0.052,mean diff
+NBHLinInsHolm,0.023,Holm-adjusted over 12 tests
+NBHLinInsP,0.004,"exact Wilcoxon Hybrid vs model, participants"
+NBHLinInsWin,9,participants Hybrid > model
+NBHLinPccD,+0.077,mean diff
+NBHLinPccHolm,0.023,Holm-adjusted over 12 tests
+NBHLinPccP,0.002,"exact Wilcoxon Hybrid vs model, participants"
+NBHLinPccWin,10,participants Hybrid > model
+NBHLinResD,+0.127,mean diff
+NBHLinResHolm,0.023,Holm-adjusted over 12 tests
+NBHLinResP,0.002,"exact Wilcoxon Hybrid vs model, participants"
+NBHLinResWin,10,participants Hybrid > model
+NBHNeuInsD,+0.110,mean diff
+NBHNeuInsHolm,0.023,Holm-adjusted over 12 tests
+NBHNeuInsP,0.002,"exact Wilcoxon Hybrid vs model, participants"
+NBHNeuInsWin,10,participants Hybrid > model
+NBHNeuPccD,+0.196,mean diff
+NBHNeuPccHolm,0.023,Holm-adjusted over 12 tests
+NBHNeuPccP,0.004,"exact Wilcoxon Hybrid vs model, participants"
+NBHNeuPccWin,9,participants Hybrid > model
+NBHNeuResD,+0.137,mean diff
+NBHNeuResHolm,0.023,Holm-adjusted over 12 tests
+NBHNeuResP,0.004,"exact Wilcoxon Hybrid vs model, participants"
+NBHNeuResWin,9,participants Hybrid > model
+NBHybBeatT,62,participant-folds with PCC > template
+NBHybEstoiVsCstP,0.322,hybrid vs constant estoi
+NBHybEstoiVsCstWin,6,participants hybrid > constant
+NBHybEstoiVsTemP,0.037,B hybrid vs template estoi
+NBHybEstoiVsTemWin,7,wins
+NBHybIns,0.300,stageB mean over 100 participant-folds
+NBHybLow,0,participant-folds with PCC < 0.3
+NBHybMax,0.888,max fold PCC hybrid
+NBHybMin,0.404,min fold PCC hybrid
+NBHybMse,1.73,stageB mean over 100 participant-folds
+NBHybPcc,0.752,stageB mean over 100 participant-folds
+NBHybRes,0.477,stageB mean over 100 participant-folds
+NBHybStoiVsCstP,0.002,hybrid vs constant stoi
+NBHybStoiVsCstWin,0,participants hybrid > constant
+NBHybStoiVsTemP,0.027,B hybrid vs template stoi
+NBHybStoiVsTemWin,9,wins
+NBLinBeatT,35,participant-folds with PCC > template
+NBLinIns,0.248,stageB mean over 100 participant-folds
+NBLinLow,0,participant-folds with PCC < 0.3
+NBLinMse,2.18,stageB mean over 100 participant-folds
+NBLinPcc,0.675,stageB mean over 100 participant-folds
+NBLinRes,0.351,stageB mean over 100 participant-folds
+NBMcdBas,31.0,stage B MCD (log-mel cepstral)
+NBMcdCon,33.6,stage B MCD (log-mel cepstral)
+NBMcdHyb,31.0,stage B MCD (log-mel cepstral)
+NBMcdLin,33.1,stage B MCD (log-mel cepstral)
+NBMcdNeu,33.4,stage B MCD (log-mel cepstral)
+NBMcdSpBas,62.4,speech frames
+NBMcdSpCon,67.6,speech frames
+NBMcdSpHyb,62.7,speech frames
+NBMcdSpLin,64.5,speech frames
+NBMcdSpNeu,67.5,speech frames
+NBMcdSpTem,64.5,speech frames
+NBMcdTem,31.1,stage B MCD (log-mel cepstral)
+NBNeuBeatT,44,participant-folds with PCC > template
+NBNeuEqCst,2,participants with fold-1 NeuroIncept PCC < 0.3 and |NeuroIncept STOI - constant STOI| < 0.002
+NBNeuEqCstAll,3,"participants with |NeuroIncept STOI - constant STOI| < 0.002, any PCC"
+NBNeuIns,0.191,stageB mean over 100 participant-folds
+NBNeuLow,25,participant-folds with PCC < 0.3
+NBNeuLowSubjects,4,participants with at least one collapsed neuroincept fold
+NBNeuMin,-0.002,min fold PCC neuroincept
+NBNeuMse,2.44,stageB mean over 100 participant-folds
+NBNeuPcc,0.556,stageB mean over 100 participant-folds
+NBNeuRes,0.340,stageB mean over 100 participant-folds
+NBStoiBas,0.399,stage B STOI mean over participants
+NBStoiCon,0.308,stage B STOI mean over participants
+NBStoiCst,0.502,"constant control STOI, mean over 10 participants"
+NBStoiHyb,0.383,stage B STOI mean over participants
+NBStoiLin,0.339,stage B STOI mean over participants
+NBStoiNeu,0.400,stage B STOI mean over participants
+NBStoiTem,0.324,stage B STOI mean over participants
+NBStoiTru,0.694,stage B STOI mean over participants
+NBSystemsAboveCstStoi,0,systems whose mean STOI exceeds the constant control
+NBTBasInsD,+0.056,mean diff vs template
+NBTBasInsP,0.131,exact Wilcoxon vs template
+NBTBasInsWin,7,participants model > template
+NBTBasPccD,+0.040,mean diff vs template
+NBTBasPccP,0.275,exact Wilcoxon vs template
+NBTBasPccWin,6,participants model > template
+NBTConInsD,-0.020,mean diff vs template
+NBTConInsP,0.492,exact Wilcoxon vs template
+NBTConInsWin,4,participants model > template
+NBTConPccD,-0.091,mean diff vs template
+NBTConPccP,0.131,exact Wilcoxon vs template
+NBTConPccWin,4,participants model > template
+NBTHybInsD,+0.087,mean diff vs template
+NBTHybInsP,0.037,exact Wilcoxon vs template
+NBTHybInsWin,7,participants model > template
+NBTHybPccD,+0.039,mean diff vs template
+NBTHybPccP,0.322,exact Wilcoxon vs template
+NBTHybPccWin,6,participants model > template
+NBTLinInsD,+0.035,mean diff vs template
+NBTLinInsP,0.322,exact Wilcoxon vs template
+NBTLinInsWin,6,participants model > template
+NBTLinPccD,-0.038,mean diff vs template
+NBTLinPccP,0.375,exact Wilcoxon vs template
+NBTLinPccWin,4,participants model > template
+NBTNeuInsD,-0.023,mean diff vs template
+NBTNeuInsP,0.695,exact Wilcoxon vs template
+NBTNeuInsWin,4,participants model > template
+NBTNeuPccD,-0.157,mean diff vs template
+NBTNeuPccP,0.232,exact Wilcoxon vs template
+NBTNeuPccWin,4,participants model > template
+NBTemIns,0.214,stageB template in-speech
+NBTemPcc,0.714,stageB template
+NBTemShare,95,stage B: template PCC as % of Hybrid PCC
+NHolmFamily,12,4 comparators x 3 metrics
+NPvSAllBHigher,5,systems (of 5) whose Stage B PCC on blocks 3 and 8 exceeds the pooled Stage A PCC
+NPvSBasInsA,0.219,"Stage A baseline pcc_in_speech, mean over seeds then participants"
+NPvSBasInsB,0.273,"Stage B baseline pcc_in_speech, folds 3 and 8 averaged per participant, then participants"
+NPvSBasInsD,+0.054,Stage B minus Stage A
+NPvSBasInsP,0.064,"exact Wilcoxon, uncorrected"
+NPvSBasInsWin,8,participants with Stage B > Stage A
+NPvSBasPccA,0.705,"Stage A baseline pcc, mean over seeds then participants"
+NPvSBasPccB,0.764,"Stage B baseline pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSBasPccD,+0.058,Stage B minus Stage A
+NPvSBasPccP,0.002,"exact Wilcoxon, uncorrected"
+NPvSBasPccWin,10,participants with Stage B > Stage A
+NPvSBasResA,0.371,"Stage A baseline residual_pcc, mean over seeds then participants"
+NPvSBasResB,0.453,"Stage B baseline residual_pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSBasResD,+0.082,Stage B minus Stage A
+NPvSBasResP,0.006,"exact Wilcoxon, uncorrected"
+NPvSBasResWin,9,participants with Stage B > Stage A
+NPvSConInsA,0.167,"Stage A convedsr pcc_in_speech, mean over seeds then participants"
+NPvSConInsB,0.189,"Stage B convedsr pcc_in_speech, folds 3 and 8 averaged per participant, then participants"
+NPvSConInsD,+0.022,Stage B minus Stage A
+NPvSConInsP,0.375,"exact Wilcoxon, uncorrected"
+NPvSConInsWin,7,participants with Stage B > Stage A
+NPvSConPccA,0.590,"Stage A convedsr pcc, mean over seeds then participants"
+NPvSConPccB,0.625,"Stage B convedsr pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSConPccD,+0.035,Stage B minus Stage A
+NPvSConPccP,0.193,"exact Wilcoxon, uncorrected"
+NPvSConPccWin,7,participants with Stage B > Stage A
+NPvSConResA,0.240,"Stage A convedsr residual_pcc, mean over seeds then participants"
+NPvSConResB,0.299,"Stage B convedsr residual_pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSConResD,+0.059,Stage B minus Stage A
+NPvSConResP,0.105,"exact Wilcoxon, uncorrected"
+NPvSConResWin,8,participants with Stage B > Stage A
+NPvSHybInsA,0.232,"Stage A hybrid pcc_in_speech, mean over seeds then participants"
+NPvSHybInsB,0.287,"Stage B hybrid pcc_in_speech, folds 3 and 8 averaged per participant, then participants"
+NPvSHybInsD,+0.055,Stage B minus Stage A
+NPvSHybInsP,0.064,"exact Wilcoxon, uncorrected"
+NPvSHybInsWin,8,participants with Stage B > Stage A
+NPvSHybPccA,0.696,"Stage A hybrid pcc, mean over seeds then participants"
+NPvSHybPccB,0.758,"Stage B hybrid pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSHybPccD,+0.062,Stage B minus Stage A
+NPvSHybPccP,0.002,"exact Wilcoxon, uncorrected"
+NPvSHybPccWin,10,participants with Stage B > Stage A
+NPvSHybRatio,92,pooled Hybrid PCC as % of its subject-dependent PCC on the same blocks
+NPvSHybResA,0.369,"Stage A hybrid residual_pcc, mean over seeds then participants"
+NPvSHybResB,0.452,"Stage B hybrid residual_pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSHybResD,+0.083,Stage B minus Stage A
+NPvSHybResP,0.002,"exact Wilcoxon, uncorrected"
+NPvSHybResWin,10,participants with Stage B > Stage A
+NPvSLinInsA,0.161,"Stage A linear pcc_in_speech, mean over seeds then participants"
+NPvSLinInsB,0.233,"Stage B linear pcc_in_speech, folds 3 and 8 averaged per participant, then participants"
+NPvSLinInsD,+0.072,Stage B minus Stage A
+NPvSLinInsP,0.064,"exact Wilcoxon, uncorrected"
+NPvSLinInsWin,8,participants with Stage B > Stage A
+NPvSLinPccA,0.472,"Stage A linear pcc, mean over seeds then participants"
+NPvSLinPccB,0.680,"Stage B linear pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSLinPccD,+0.208,Stage B minus Stage A
+NPvSLinPccP,0.002,"exact Wilcoxon, uncorrected"
+NPvSLinPccWin,10,participants with Stage B > Stage A
+NPvSLinResA,0.132,"Stage A linear residual_pcc, mean over seeds then participants"
+NPvSLinResB,0.322,"Stage B linear residual_pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSLinResD,+0.190,Stage B minus Stage A
+NPvSLinResP,0.002,"exact Wilcoxon, uncorrected"
+NPvSLinResWin,10,participants with Stage B > Stage A
+NPvSNeuInsA,0.126,"Stage A neuroincept pcc_in_speech, mean over seeds then participants"
+NPvSNeuInsB,0.174,"Stage B neuroincept pcc_in_speech, folds 3 and 8 averaged per participant, then participants"
+NPvSNeuInsD,+0.048,Stage B minus Stage A
+NPvSNeuInsP,0.160,"exact Wilcoxon, uncorrected"
+NPvSNeuInsWin,8,participants with Stage B > Stage A
+NPvSNeuPccA,0.427,"Stage A neuroincept pcc, mean over seeds then participants"
+NPvSNeuPccB,0.532,"Stage B neuroincept pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSNeuPccD,+0.105,Stage B minus Stage A
+NPvSNeuPccP,0.375,"exact Wilcoxon, uncorrected"
+NPvSNeuPccWin,6,participants with Stage B > Stage A
+NPvSNeuResA,0.208,"Stage A neuroincept residual_pcc, mean over seeds then participants"
+NPvSNeuResB,0.292,"Stage B neuroincept residual_pcc, folds 3 and 8 averaged per participant, then participants"
+NPvSNeuResD,+0.084,Stage B minus Stage A
+NPvSNeuResP,0.193,"exact Wilcoxon, uncorrected"
+NPvSNeuResWin,7,participants with Stage B > Stage A
+NXChMax,127,max channels
+NXChMin,54,min channels
+NXCstHigh,0.502,user notebook output 2026-10-17: constant spectrum level +1.15 natural-log units
+NXCstLow,0.503,user notebook output 2026-10-17: constant spectrum level -1.15 natural-log units
+NXCstOther,0.505,user notebook output 2026-10-17: constant spectrum vs another participant's speech
+NXCstShift,0.501,user notebook output 2026-10-17: constant spectrum vs reference shifted by 10 s (mean over 10 participants; Stage B fold 1)
+NXParamsBaseline,1.96,computed by instantiating stageA_pooled.BaselineModel
+NXParamsConvedsr,0.91,computed by instantiating stageA_extra
+NXParamsHybrid,7.10,computed by instantiating stageA_pooled.HybridModel
+NXParamsNeuroincept,4.67,computed by instantiating stageA_extra
+NXPubConvedsrPcc,0.75,ConvED-SR Table II 0.7545 (fact card)
+NXPubConvedsrStoi,0.41,ConvED-SR Table II 0.4135 (fact card)
+NXPubLinPcc,0.70,"NeuroIncept Table II quotes 0.7050 for linear regression ""as reported by Verwoert"" (NeuroIncept fact card)"
+NXPubMistrPcc,0.91,MiSTR Table 1 / abstract (fact card)
+NXPubMistrStoi,0.73,MiSTR Table 1 (fact card)
+NXPubNeuPcc,0.92,NeuroIncept Table II 0.9179 (fact card)
+NXSpeechPctMax,25,max speech % of recording
+NXSpeechPctMin,14,min speech % of recording
+NXSpeechSMax,0.74,max participant mean speech s/word
+NXSpeechSMin,0.41,min participant mean speech s/word
+NXTotalChannels,1103,sum of channels
+NXTotalTrials,995,sum of trials
+NXWordsAllSpeechMax,1.37,user cell output
+NXWordsAllSpeechMean,0.603,user cell output (995 words)
+NXWordsAllSpeechMin,0.00,user cell output
+NXWordsAllSpeechSd,0.207,user cell output
+NXWvAmpP,0.0039,user output exact Wilcoxon
+NXWvAmpPos,9,user output (sub-06 -0.03)
+NXWvAmpR,0.316,user output
+NXWvAmpSpearman,0.246,user output
+NXWvBelowAxis,90,user output
+NXWvLatP,0.0020,user output exact Wilcoxon
+NXWvLatPos,10,user output
+NXWvLatR,0.572,user output
+NXWvLatSpearman,0.618,user output
+NXWvTemplateAmpR,-0.089,user output
+NXWvWords,795,user output W.make (Hybrid words used)

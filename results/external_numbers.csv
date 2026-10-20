@@ -1,0 +1,41 @@
+key,value,source
+sub-01,127;300.3;100;0.633;21.8,"channels;duration_s;trials;speech_s_per_word;speech_pct_recording. channels+duration: user cell output 2026-10-16 (channels.npy, frame_times.npy); speech: user cell 'speech seconds per word'"
+sub-02,127;300.3;100;0.650;22.0,same
+sub-03,127;300.3;100;0.651;23.3,same
+sub-04,115;300.3;100;0.709;24.2,same
+sub-05,60;300.3;100;0.741;25.2,same
+sub-06,127;300.4;100;0.583;19.5,same
+sub-07,127;300.3;100;0.476;16.8,same
+sub-08,54;300.3;100;0.609;20.3,same
+sub-09,117;300.4;100;0.563;18.9,same
+sub-10,122;285.0;95;0.406;14.2,same
+words_all_speech_mean,0.603,user cell output (995 words)
+words_all_speech_sd,0.207,user cell output
+words_all_speech_min,0.00,user cell output
+words_all_speech_max,1.37,user cell output
+wv_words,795,user output W.make (Hybrid words used)
+wv_amp_r,0.316,user output
+wv_amp_p,0.0039,user output exact Wilcoxon
+wv_amp_pos,9,user output (sub-06 -0.03)
+wv_lat_r,0.572,user output
+wv_lat_p,0.0020,user output exact Wilcoxon
+wv_lat_pos,10,user output
+wv_amp_spearman,0.246,user output
+wv_lat_spearman,0.618,user output
+wv_template_amp_r,-0.089,user output
+wv_below_axis,90,user output
+params_hybrid,7.10,computed by instantiating stageA_pooled.HybridModel
+params_baseline,1.96,computed by instantiating stageA_pooled.BaselineModel
+params_neuroincept,4.67,computed by instantiating stageA_extra
+params_convedsr,0.91,computed by instantiating stageA_extra
+total_channels,1103,sum of channels
+pub_lin_pcc,0.70,NeuroIncept Table II quotes 0.7050 for linear regression "as reported by Verwoert" (NeuroIncept fact card)
+pub_neu_pcc,0.92,NeuroIncept Table II 0.9179 (fact card)
+pub_mistr_pcc,0.91,MiSTR Table 1 / abstract (fact card)
+pub_convedsr_pcc,0.75,ConvED-SR Table II 0.7545 (fact card)
+pub_convedsr_stoi,0.41,ConvED-SR Table II 0.4135 (fact card)
+pub_mistr_stoi,0.73,MiSTR Table 1 (fact card)
+cst_shift,0.501,user notebook output 2026-10-17: constant spectrum vs reference shifted by 10 s (mean over 10 participants; Stage B fold 1)
+cst_other,0.505,user notebook output 2026-10-17: constant spectrum vs another participant's speech
+cst_low,0.503,user notebook output 2026-10-17: constant spectrum level -1.15 natural-log units
+cst_high,0.502,user notebook output 2026-10-17: constant spectrum level +1.15 natural-log units

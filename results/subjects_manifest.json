@@ -1,0 +1,42 @@
+{
+ "sub-01": {
+  "channels": 127,
+  "frames": 25861
+ },
+ "sub-02": {
+  "channels": 127,
+  "frames": 25862
+ },
+ "sub-03": {
+  "channels": 127,
+  "frames": 25862
+ },
+ "sub-04": {
+  "channels": 115,
+  "frames": 25862
+ },
+ "sub-05": {
+  "channels": 60,
+  "frames": 25860
+ },
+ "sub-06": {
+  "channels": 127,
+  "frames": 25868
+ },
+ "sub-07": {
+  "channels": 127,
+  "frames": 25867
+ },
+ "sub-08": {
+  "channels": 54,
+  "frames": 25867
+ },
+ "sub-09": {
+  "channels": 117,
+  "frames": 25869
+ },
+ "sub-10": {
+  "channels": 122,
+  "frames": 24548
+ }
+}

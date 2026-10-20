@@ -1,0 +1,562 @@
+{
+ "sub-03|truth": {
+  "subject": "sub-03",
+  "system": "truth",
+  "stoi": 0.7403633031186297,
+  "estoi": 0.6061757505950889,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-03|template": {
+  "subject": "sub-03",
+  "system": "template",
+  "stoi": 0.4205735960254244,
+  "estoi": -0.022048183686914736,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-03|hybrid": {
+  "subject": "sub-03",
+  "system": "hybrid",
+  "stoi": 0.3488583923498801,
+  "estoi": 0.000238621186181104,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-06|truth": {
+  "subject": "sub-06",
+  "system": "truth",
+  "stoi": 0.7484782427803299,
+  "estoi": 0.6099366145749312,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-06|template": {
+  "subject": "sub-06",
+  "system": "template",
+  "stoi": 0.4483290275163798,
+  "estoi": 0.010789197610218492,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-06|hybrid": {
+  "subject": "sub-06",
+  "system": "hybrid",
+  "stoi": 0.4516650378243968,
+  "estoi": 0.09091626026489996,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-03|linear": {
+  "subject": "sub-03",
+  "system": "linear",
+  "stoi": 0.43959910827799364,
+  "estoi": -0.004775610918619095,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-03|baseline": {
+  "subject": "sub-03",
+  "system": "baseline",
+  "stoi": 0.39293757330955426,
+  "estoi": -0.03205369030686674,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-03|neuroincept": {
+  "subject": "sub-03",
+  "system": "neuroincept",
+  "stoi": 0.3608504589984914,
+  "estoi": -0.019408835614146268,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-03|convedsr": {
+  "subject": "sub-03",
+  "system": "convedsr",
+  "stoi": 0.2534434927623499,
+  "estoi": -0.021313683481189824,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-06|linear": {
+  "subject": "sub-06",
+  "system": "linear",
+  "stoi": 0.4021734998299583,
+  "estoi": -0.013215133703434929,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-06|baseline": {
+  "subject": "sub-06",
+  "system": "baseline",
+  "stoi": 0.4411005315698546,
+  "estoi": -0.016359195402409096,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-06|neuroincept": {
+  "subject": "sub-06",
+  "system": "neuroincept",
+  "stoi": 0.38284769788689543,
+  "estoi": -0.02816073111755557,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-06|convedsr": {
+  "subject": "sub-06",
+  "system": "convedsr",
+  "stoi": 0.3085193938104262,
+  "estoi": -0.00939569548788848,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-01|truth": {
+  "subject": "sub-01",
+  "system": "truth",
+  "stoi": 0.6761087538978487,
+  "estoi": 0.5809175922392203,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-01|template": {
+  "subject": "sub-01",
+  "system": "template",
+  "stoi": 0.29136867727510785,
+  "estoi": 0.02302389203577249,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-01|linear": {
+  "subject": "sub-01",
+  "system": "linear",
+  "stoi": 0.1935983606525447,
+  "estoi": -0.014721070150506051,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-01|baseline": {
+  "subject": "sub-01",
+  "system": "baseline",
+  "stoi": 0.28586673929196227,
+  "estoi": -0.055644250800771525,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-01|hybrid": {
+  "subject": "sub-01",
+  "system": "hybrid",
+  "stoi": 0.2909921392511191,
+  "estoi": 0.027996977841753604,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-01|neuroincept": {
+  "subject": "sub-01",
+  "system": "neuroincept",
+  "stoi": 0.17762135552617792,
+  "estoi": -0.005205794230918842,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-01|convedsr": {
+  "subject": "sub-01",
+  "system": "convedsr",
+  "stoi": 0.20071800900905828,
+  "estoi": 0.001416788877881356,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-02|truth": {
+  "subject": "sub-02",
+  "system": "truth",
+  "stoi": 0.6959587535354006,
+  "estoi": 0.5731333239373702,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-02|template": {
+  "subject": "sub-02",
+  "system": "template",
+  "stoi": 0.30780300245721404,
+  "estoi": 0.002195176465168978,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-02|linear": {
+  "subject": "sub-02",
+  "system": "linear",
+  "stoi": 0.33878649350094125,
+  "estoi": -0.008427185756813286,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-02|baseline": {
+  "subject": "sub-02",
+  "system": "baseline",
+  "stoi": 0.32965458631735234,
+  "estoi": 0.0005846531722519179,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-02|hybrid": {
+  "subject": "sub-02",
+  "system": "hybrid",
+  "stoi": 0.29560728387395396,
+  "estoi": 0.025563620612722035,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-02|neuroincept": {
+  "subject": "sub-02",
+  "system": "neuroincept",
+  "stoi": 0.21313750595064035,
+  "estoi": -0.02177614855254428,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-02|convedsr": {
+  "subject": "sub-02",
+  "system": "convedsr",
+  "stoi": 0.30705903939883444,
+  "estoi": -0.04587698966159484,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-04|truth": {
+  "subject": "sub-04",
+  "system": "truth",
+  "stoi": 0.7487861844118708,
+  "estoi": 0.5739228166925806,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-04|template": {
+  "subject": "sub-04",
+  "system": "template",
+  "stoi": 0.30288224414236325,
+  "estoi": 0.007860050967893037,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-04|linear": {
+  "subject": "sub-04",
+  "system": "linear",
+  "stoi": 0.4325211205131371,
+  "estoi": 0.013696910507077576,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-04|baseline": {
+  "subject": "sub-04",
+  "system": "baseline",
+  "stoi": 0.41513375579803663,
+  "estoi": 0.011723467193239322,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-04|hybrid": {
+  "subject": "sub-04",
+  "system": "hybrid",
+  "stoi": 0.2841493139897703,
+  "estoi": 0.005036503983657136,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-04|neuroincept": {
+  "subject": "sub-04",
+  "system": "neuroincept",
+  "stoi": 0.3211594884385972,
+  "estoi": 0.005031345714748883,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-04|convedsr": {
+  "subject": "sub-04",
+  "system": "convedsr",
+  "stoi": 0.3850299146839924,
+  "estoi": -0.004892449168468548,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-05|truth": {
+  "subject": "sub-05",
+  "system": "truth",
+  "stoi": 0.7316227843879435,
+  "estoi": 0.6464108692970337,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-05|template": {
+  "subject": "sub-05",
+  "system": "template",
+  "stoi": 0.3712011260794402,
+  "estoi": 0.016382534343016324,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-05|linear": {
+  "subject": "sub-05",
+  "system": "linear",
+  "stoi": 0.36116765303901277,
+  "estoi": 0.009060338584253758,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-05|baseline": {
+  "subject": "sub-05",
+  "system": "baseline",
+  "stoi": 0.38190365472622617,
+  "estoi": -0.020112263995762804,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-05|hybrid": {
+  "subject": "sub-05",
+  "system": "hybrid",
+  "stoi": 0.3005784229556526,
+  "estoi": -0.026746494015649745,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-05|neuroincept": {
+  "subject": "sub-05",
+  "system": "neuroincept",
+  "stoi": 0.22797071044766973,
+  "estoi": -0.010080552835496118,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-05|convedsr": {
+  "subject": "sub-05",
+  "system": "convedsr",
+  "stoi": 0.314970404971725,
+  "estoi": -0.007655608034940187,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-07|truth": {
+  "subject": "sub-07",
+  "system": "truth",
+  "stoi": 0.6990634493128134,
+  "estoi": 0.5624852365807935,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-07|template": {
+  "subject": "sub-07",
+  "system": "template",
+  "stoi": 0.41748239998890924,
+  "estoi": -0.020048281975270588,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-07|linear": {
+  "subject": "sub-07",
+  "system": "linear",
+  "stoi": 0.37326668641301697,
+  "estoi": -0.0025522964839277025,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-07|baseline": {
+  "subject": "sub-07",
+  "system": "baseline",
+  "stoi": 0.285874300642709,
+  "estoi": 0.015605533939304517,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-07|hybrid": {
+  "subject": "sub-07",
+  "system": "hybrid",
+  "stoi": 0.3301841672318465,
+  "estoi": 0.04395563307031126,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-07|neuroincept": {
+  "subject": "sub-07",
+  "system": "neuroincept",
+  "stoi": 0.2574670849921755,
+  "estoi": -0.0026574284752445667,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-07|convedsr": {
+  "subject": "sub-07",
+  "system": "convedsr",
+  "stoi": 0.25253776707300113,
+  "estoi": 0.0077026450671555235,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-08|truth": {
+  "subject": "sub-08",
+  "system": "truth",
+  "stoi": 0.6981731998038229,
+  "estoi": 0.5821754845333882,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-08|template": {
+  "subject": "sub-08",
+  "system": "template",
+  "stoi": 0.3507618923092274,
+  "estoi": 0.016689990019321064,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-08|linear": {
+  "subject": "sub-08",
+  "system": "linear",
+  "stoi": 0.3390721519450571,
+  "estoi": 0.0018668714030085753,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-08|baseline": {
+  "subject": "sub-08",
+  "system": "baseline",
+  "stoi": 0.3450849175336367,
+  "estoi": 0.003581329521339498,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-08|hybrid": {
+  "subject": "sub-08",
+  "system": "hybrid",
+  "stoi": 0.2562103110547763,
+  "estoi": -0.022455430470856144,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-08|neuroincept": {
+  "subject": "sub-08",
+  "system": "neuroincept",
+  "stoi": 0.29184118336823806,
+  "estoi": -0.013921550607640932,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-08|convedsr": {
+  "subject": "sub-08",
+  "system": "convedsr",
+  "stoi": 0.2574763618710325,
+  "estoi": 0.008728781989509186,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-09|truth": {
+  "subject": "sub-09",
+  "system": "truth",
+  "stoi": 0.7372039219975777,
+  "estoi": 0.5916861603419108,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-09|template": {
+  "subject": "sub-09",
+  "system": "template",
+  "stoi": 0.3783499269240072,
+  "estoi": -0.01845401328350733,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-09|linear": {
+  "subject": "sub-09",
+  "system": "linear",
+  "stoi": 0.45100232528079554,
+  "estoi": 0.005389544436640284,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-09|baseline": {
+  "subject": "sub-09",
+  "system": "baseline",
+  "stoi": 0.4055868787101686,
+  "estoi": -0.009239584824505117,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-09|hybrid": {
+  "subject": "sub-09",
+  "system": "hybrid",
+  "stoi": 0.3796824220823206,
+  "estoi": 0.020460405390881,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-09|neuroincept": {
+  "subject": "sub-09",
+  "system": "neuroincept",
+  "stoi": 0.26555209751289754,
+  "estoi": -0.0031019840563861873,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-09|convedsr": {
+  "subject": "sub-09",
+  "system": "convedsr",
+  "stoi": 0.2908721387039907,
+  "estoi": -0.030734117255650832,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ },
+ "sub-10|truth": {
+  "subject": "sub-10",
+  "system": "truth",
+  "stoi": 0.6999088103415647,
+  "estoi": 0.545068459200593,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-10|template": {
+  "subject": "sub-10",
+  "system": "template",
+  "stoi": 0.4361036280074952,
+  "estoi": 0.003333812881044562,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-10|linear": {
+  "subject": "sub-10",
+  "system": "linear",
+  "stoi": 0.4364003740101946,
+  "estoi": -0.04475432744966988,
+  "segments": 2,
+  "pred_file": "linear_seedNA_preds.npz"
+ },
+ "sub-10|baseline": {
+  "subject": "sub-10",
+  "system": "baseline",
+  "stoi": 0.42206861116125993,
+  "estoi": -0.04997034653169549,
+  "segments": 2,
+  "pred_file": "baseline_lr0.0001_seed42_preds.npz"
+ },
+ "sub-10|hybrid": {
+  "subject": "sub-10",
+  "system": "hybrid",
+  "stoi": 0.4284505726362517,
+  "estoi": 0.08162709703227214,
+  "segments": 2,
+  "pred_file": "hybrid_lr0.0001_seed42_preds.npz"
+ },
+ "sub-10|neuroincept": {
+  "subject": "sub-10",
+  "system": "neuroincept",
+  "stoi": 0.3576972019829803,
+  "estoi": -0.0036537715982988645,
+  "segments": 2,
+  "pred_file": "neuroincept_lr0.001_seed42_preds.npz"
+ },
+ "sub-10|convedsr": {
+  "subject": "sub-10",
+  "system": "convedsr",
+  "stoi": 0.3636364505771984,
+  "estoi": -0.03672182574511192,
+  "segments": 2,
+  "pred_file": "convedsr_lr0.001_seed42_preds.npz"
+ }
+}

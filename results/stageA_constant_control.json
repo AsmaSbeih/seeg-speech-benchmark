@@ -1,0 +1,82 @@
+{
+ "A|constant|sub-01|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-01",
+  "stoi": 0.4221190620283209,
+  "estoi": -0.007426249541942348,
+  "blocks": 2
+ },
+ "A|constant|sub-02|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-02",
+  "stoi": 0.5055973069292852,
+  "estoi": -0.005430387690972109,
+  "blocks": 2
+ },
+ "A|constant|sub-03|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-03",
+  "stoi": 0.5340563282582977,
+  "estoi": 0.010196025937403106,
+  "blocks": 2
+ },
+ "A|constant|sub-04|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-04",
+  "stoi": 0.5100203793973628,
+  "estoi": -0.004958988049099118,
+  "blocks": 2
+ },
+ "A|constant|sub-05|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-05",
+  "stoi": 0.49370106792939983,
+  "estoi": 0.003984204061168667,
+  "blocks": 2
+ },
+ "A|constant|sub-06|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-06",
+  "stoi": 0.5241285313963365,
+  "estoi": -0.018845791344416888,
+  "blocks": 2
+ },
+ "A|constant|sub-07|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-07",
+  "stoi": 0.5438092559757065,
+  "estoi": 0.013241050152535296,
+  "blocks": 2
+ },
+ "A|constant|sub-08|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-08",
+  "stoi": 0.5207681322387434,
+  "estoi": -0.005549669587665898,
+  "blocks": 2
+ },
+ "A|constant|sub-09|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-09",
+  "stoi": 0.538894843640833,
+  "estoi": 0.005142478120219368,
+  "blocks": 2
+ },
+ "A|constant|sub-10|-": {
+  "stage": "A",
+  "system": "constant",
+  "subject": "sub-10",
+  "stoi": 0.5287431914226789,
+  "estoi": -0.017797395131429153,
+  "blocks": 2
+ }
+}

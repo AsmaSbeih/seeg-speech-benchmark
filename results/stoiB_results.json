@@ -1,0 +1,562 @@
+{
+ "B|baseline|sub-06|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 0,
+  "stoi": 0.5323734528511456,
+  "estoi": 0.09721093829738987
+ },
+ "B|convedsr|sub-06|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 0,
+  "stoi": 0.4921970720562052,
+  "estoi": -0.0038077691878097737
+ },
+ "B|hybrid|sub-06|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 0,
+  "stoi": 0.5047642041305812,
+  "estoi": 0.03882246700762637
+ },
+ "B|template|sub-06|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 0,
+  "stoi": 0.4361023603228093,
+  "estoi": 0.06912166075753375
+ },
+ "B|truth|sub-06|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-06",
+  "fold": 0,
+  "stoi": 0.7613180592029983,
+  "estoi": 0.6069198523865884
+ },
+ "B|linear|sub-06|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 0,
+  "stoi": 0.4468126283669942,
+  "estoi": -0.0018897682999153768
+ },
+ "B|neuroincept|sub-06|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 0,
+  "stoi": 0.5167290851637819,
+  "estoi": -0.008082543742163429
+ },
+ "B|baseline|sub-01|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 0,
+  "stoi": 0.4058438301997619,
+  "estoi": -0.05930062225139582
+ },
+ "B|convedsr|sub-01|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 0,
+  "stoi": 0.28644820056153836,
+  "estoi": -0.00870666113384289
+ },
+ "B|hybrid|sub-01|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 0,
+  "stoi": 0.32604167843425597,
+  "estoi": -0.03578017542434679
+ },
+ "B|template|sub-01|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 0,
+  "stoi": 0.3070726991870152,
+  "estoi": -0.030084040539423467
+ },
+ "B|truth|sub-01|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-01",
+  "fold": 0,
+  "stoi": 0.6883654728807849,
+  "estoi": 0.5624724706272928
+ },
+ "B|linear|sub-01|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 0,
+  "stoi": 0.3275200062343001,
+  "estoi": -0.00782069478004279
+ },
+ "B|neuroincept|sub-01|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 0,
+  "stoi": 0.47360683576048157,
+  "estoi": 0.012630636081691408
+ },
+ "B|baseline|sub-02|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 0,
+  "stoi": 0.36537549098187827,
+  "estoi": 0.011062035057081485
+ },
+ "B|convedsr|sub-02|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 0,
+  "stoi": 0.3301323735764648,
+  "estoi": -0.03627615647056811
+ },
+ "B|hybrid|sub-02|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 0,
+  "stoi": 0.351505317709324,
+  "estoi": -0.004327257031460497
+ },
+ "B|template|sub-02|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 0,
+  "stoi": 0.30941634501119414,
+  "estoi": -0.0024627134592413178
+ },
+ "B|truth|sub-02|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-02",
+  "fold": 0,
+  "stoi": 0.6767938586333961,
+  "estoi": 0.5655724428813464
+ },
+ "B|linear|sub-02|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 0,
+  "stoi": 0.30430795044830183,
+  "estoi": -0.010666377095867012
+ },
+ "B|neuroincept|sub-02|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 0,
+  "stoi": 0.2983503407172818,
+  "estoi": -0.003303501821493866
+ },
+ "B|baseline|sub-03|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 0,
+  "stoi": 0.43085945663375586,
+  "estoi": -0.027556678168584484
+ },
+ "B|convedsr|sub-03|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 0,
+  "stoi": 0.34622054329381136,
+  "estoi": -0.013464481962825932
+ },
+ "B|hybrid|sub-03|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 0,
+  "stoi": 0.4213518525521502,
+  "estoi": 0.01309502961429176
+ },
+ "B|template|sub-03|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 0,
+  "stoi": 0.33642666245439035,
+  "estoi": -0.023159722255816265
+ },
+ "B|truth|sub-03|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-03",
+  "fold": 0,
+  "stoi": 0.6966612819878394,
+  "estoi": 0.536253028379476
+ },
+ "B|linear|sub-03|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 0,
+  "stoi": 0.37010284049897463,
+  "estoi": -0.01207317322367724
+ },
+ "B|neuroincept|sub-03|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 0,
+  "stoi": 0.5031837261403196,
+  "estoi": 0.005555013128302073
+ },
+ "B|baseline|sub-04|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 0,
+  "stoi": 0.4234683193907175,
+  "estoi": 0.017225389548629996
+ },
+ "B|convedsr|sub-04|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 0,
+  "stoi": 0.24307635228305988,
+  "estoi": -0.00305069910388754
+ },
+ "B|hybrid|sub-04|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 0,
+  "stoi": 0.4387148650500184,
+  "estoi": 0.09136880260557573
+ },
+ "B|template|sub-04|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 0,
+  "stoi": 0.33462036776271487,
+  "estoi": 0.032138241469068685
+ },
+ "B|truth|sub-04|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-04",
+  "fold": 0,
+  "stoi": 0.7240980452208431,
+  "estoi": 0.6287664249405176
+ },
+ "B|linear|sub-04|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 0,
+  "stoi": 0.3191184487593149,
+  "estoi": 0.025111088180115947
+ },
+ "B|neuroincept|sub-04|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 0,
+  "stoi": 0.36541463027662063,
+  "estoi": -0.006147462778656886
+ },
+ "B|baseline|sub-05|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 0,
+  "stoi": 0.3540506159224933,
+  "estoi": -0.0018954290017736443
+ },
+ "B|convedsr|sub-05|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 0,
+  "stoi": 0.27253192438641977,
+  "estoi": 0.00047463243751981563
+ },
+ "B|hybrid|sub-05|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 0,
+  "stoi": 0.34387699038578673,
+  "estoi": -0.0020026838298674043
+ },
+ "B|template|sub-05|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 0,
+  "stoi": 0.20086678768108718,
+  "estoi": -0.04616488295763217
+ },
+ "B|truth|sub-05|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-05",
+  "fold": 0,
+  "stoi": 0.6922694541834047,
+  "estoi": 0.6090535608572311
+ },
+ "B|linear|sub-05|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 0,
+  "stoi": 0.31345618756460436,
+  "estoi": -0.047679143060417546
+ },
+ "B|neuroincept|sub-05|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 0,
+  "stoi": 0.31592282771771163,
+  "estoi": -0.006124103271846506
+ },
+ "B|baseline|sub-07|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 0,
+  "stoi": 0.39767172040190224,
+  "estoi": 0.021771675037767238
+ },
+ "B|convedsr|sub-07|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 0,
+  "stoi": 0.29885452611336155,
+  "estoi": 0.05368917052218105
+ },
+ "B|hybrid|sub-07|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 0,
+  "stoi": 0.38306568356389437,
+  "estoi": 0.06184858771101792
+ },
+ "B|template|sub-07|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 0,
+  "stoi": 0.34841611472546125,
+  "estoi": -0.010301258311905452
+ },
+ "B|truth|sub-07|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-07",
+  "fold": 0,
+  "stoi": 0.668792082678838,
+  "estoi": 0.5386750400863162
+ },
+ "B|linear|sub-07|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 0,
+  "stoi": 0.29717019781586385,
+  "estoi": 0.047509132679891576
+ },
+ "B|neuroincept|sub-07|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 0,
+  "stoi": 0.39466074811613405,
+  "estoi": 0.0365316660728907
+ },
+ "B|baseline|sub-08|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 0,
+  "stoi": 0.27014807143271585,
+  "estoi": 0.02651692579756308
+ },
+ "B|convedsr|sub-08|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 0,
+  "stoi": 0.2275617864124691,
+  "estoi": 0.011905737387387795
+ },
+ "B|hybrid|sub-08|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 0,
+  "stoi": 0.2553536372467388,
+  "estoi": -0.0004866507809728457
+ },
+ "B|template|sub-08|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 0,
+  "stoi": 0.3255303057074671,
+  "estoi": -0.012354940474699346
+ },
+ "B|truth|sub-08|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-08",
+  "fold": 0,
+  "stoi": 0.6520112851427335,
+  "estoi": 0.5401901726398001
+ },
+ "B|linear|sub-08|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 0,
+  "stoi": 0.22340207006365842,
+  "estoi": 0.053833665030669005
+ },
+ "B|neuroincept|sub-08|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 0,
+  "stoi": 0.28320582725429,
+  "estoi": 0.01745464841088764
+ },
+ "B|baseline|sub-09|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 0,
+  "stoi": 0.3121188371174745,
+  "estoi": 0.012664119237864707
+ },
+ "B|convedsr|sub-09|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 0,
+  "stoi": 0.24291254127850276,
+  "estoi": 0.02486894342406343
+ },
+ "B|hybrid|sub-09|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 0,
+  "stoi": 0.2971872467878244,
+  "estoi": 0.013464766921102534
+ },
+ "B|template|sub-09|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 0,
+  "stoi": 0.2479601002415247,
+  "estoi": -0.06480635889100182
+ },
+ "B|truth|sub-09|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-09",
+  "fold": 0,
+  "stoi": 0.6870335333516183,
+  "estoi": 0.5636305441259333
+ },
+ "B|linear|sub-09|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 0,
+  "stoi": 0.3208427300450063,
+  "estoi": -0.001991765409141041
+ },
+ "B|neuroincept|sub-09|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 0,
+  "stoi": 0.2965855855270196,
+  "estoi": -0.008112496591168732
+ },
+ "B|baseline|sub-10|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 0,
+  "stoi": 0.4972098614725953,
+  "estoi": 0.05524891438976215
+ },
+ "B|convedsr|sub-10|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 0,
+  "stoi": 0.33571954289643297,
+  "estoi": -0.0235104901876211
+ },
+ "B|hybrid|sub-10|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 0,
+  "stoi": 0.5034223404798603,
+  "estoi": 0.07402874105589875
+ },
+ "B|template|sub-10|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 0,
+  "stoi": 0.3969700814761874,
+  "estoi": -0.032637633532029746
+ },
+ "B|truth|sub-10|0": {
+  "stage": "B",
+  "system": "truth",
+  "subject": "sub-10",
+  "fold": 0,
+  "stoi": 0.6928118745338082,
+  "estoi": 0.535177511629451
+ },
+ "B|linear|sub-10|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 0,
+  "stoi": 0.4682811623394544,
+  "estoi": -0.00013404837506027844
+ },
+ "B|neuroincept|sub-10|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 0,
+  "stoi": 0.5500806442279232,
+  "estoi": -0.029649313060902936
+ }
+}

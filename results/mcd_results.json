@@ -1,0 +1,5942 @@
+{
+ "A|linear|sub-01|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": -1,
+  "mcd": 37.30904220932861,
+  "mcd_speech": 76.20690796297751,
+  "frames": 5120
+ },
+ "A|linear|sub-02|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": -1,
+  "mcd": 36.81345293598537,
+  "mcd_speech": 76.66541853931763,
+  "frames": 5120
+ },
+ "A|linear|sub-03|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": -1,
+  "mcd": 34.93369632811244,
+  "mcd_speech": 68.41221757861709,
+  "frames": 5120
+ },
+ "A|linear|sub-04|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": -1,
+  "mcd": 36.36818019249396,
+  "mcd_speech": 69.52580150308559,
+  "frames": 5120
+ },
+ "A|linear|sub-05|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": -1,
+  "mcd": 39.0719688338409,
+  "mcd_speech": 74.15756055802842,
+  "frames": 5120
+ },
+ "A|linear|sub-06|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": -1,
+  "mcd": 31.78774460477215,
+  "mcd_speech": 61.80046069426307,
+  "frames": 5120
+ },
+ "A|linear|sub-07|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": -1,
+  "mcd": 32.2988273193176,
+  "mcd_speech": 69.88297822728553,
+  "frames": 5120
+ },
+ "A|linear|sub-08|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": -1,
+  "mcd": 34.22458739822647,
+  "mcd_speech": 70.29558093729835,
+  "frames": 5120
+ },
+ "A|linear|sub-09|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": -1,
+  "mcd": 35.3184849554314,
+  "mcd_speech": 73.87753963393547,
+  "frames": 5120
+ },
+ "A|linear|sub-10|-": {
+  "stage": "A",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": -1,
+  "mcd": 33.903396746676464,
+  "mcd_speech": 79.63846173737102,
+  "frames": 4608
+ },
+ "A|baseline|sub-01|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": -1,
+  "mcd": 35.45342965865745,
+  "mcd_speech": 65.13059676340085,
+  "frames": 5120
+ },
+ "A|baseline|sub-02|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": -1,
+  "mcd": 33.64651117558386,
+  "mcd_speech": 72.00786706867102,
+  "frames": 5120
+ },
+ "A|baseline|sub-03|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": -1,
+  "mcd": 31.84388583735548,
+  "mcd_speech": 59.424190043544066,
+  "frames": 5120
+ },
+ "A|baseline|sub-04|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": -1,
+  "mcd": 30.792766541402557,
+  "mcd_speech": 61.389864762096494,
+  "frames": 5120
+ },
+ "A|baseline|sub-05|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": -1,
+  "mcd": 36.93424958836405,
+  "mcd_speech": 70.7667490677454,
+  "frames": 5120
+ },
+ "A|baseline|sub-06|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": -1,
+  "mcd": 28.839181923684578,
+  "mcd_speech": 58.19012845332933,
+  "frames": 5120
+ },
+ "A|baseline|sub-07|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": -1,
+  "mcd": 29.031884402639655,
+  "mcd_speech": 63.13403394055324,
+  "frames": 5120
+ },
+ "A|baseline|sub-08|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": -1,
+  "mcd": 30.73928776536949,
+  "mcd_speech": 66.72827683397986,
+  "frames": 5120
+ },
+ "A|baseline|sub-09|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": -1,
+  "mcd": 28.64485799204732,
+  "mcd_speech": 61.208175843908776,
+  "frames": 5120
+ },
+ "A|baseline|sub-10|-": {
+  "stage": "A",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": -1,
+  "mcd": 30.859767592865907,
+  "mcd_speech": 76.21906746228481,
+  "frames": 4608
+ },
+ "A|hybrid|sub-01|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": -1,
+  "mcd": 34.53645914964085,
+  "mcd_speech": 64.8113243483754,
+  "frames": 5120
+ },
+ "A|template|sub-01|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": -1,
+  "mcd": 32.614765642370294,
+  "mcd_speech": 66.21049623153954,
+  "frames": 5120
+ },
+ "A|hybrid|sub-02|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": -1,
+  "mcd": 33.701814035728106,
+  "mcd_speech": 75.24056546272998,
+  "frames": 5120
+ },
+ "A|template|sub-02|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": -1,
+  "mcd": 31.7220606470403,
+  "mcd_speech": 69.34694574389988,
+  "frames": 5120
+ },
+ "A|hybrid|sub-03|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": -1,
+  "mcd": 29.378775021444007,
+  "mcd_speech": 62.12205792021368,
+  "frames": 5120
+ },
+ "A|template|sub-03|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": -1,
+  "mcd": 29.572910914135406,
+  "mcd_speech": 59.47444726637234,
+  "frames": 5120
+ },
+ "A|hybrid|sub-04|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": -1,
+  "mcd": 31.78213373626672,
+  "mcd_speech": 64.79608052572607,
+  "frames": 5120
+ },
+ "A|template|sub-04|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": -1,
+  "mcd": 30.511244350676016,
+  "mcd_speech": 61.86406735115778,
+  "frames": 5120
+ },
+ "A|hybrid|sub-05|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": -1,
+  "mcd": 38.06954209945354,
+  "mcd_speech": 77.62309413537542,
+  "frames": 5120
+ },
+ "A|template|sub-05|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": -1,
+  "mcd": 33.861810707797964,
+  "mcd_speech": 67.55361952217439,
+  "frames": 5120
+ },
+ "A|hybrid|sub-06|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": -1,
+  "mcd": 28.416284703977688,
+  "mcd_speech": 57.903121692660456,
+  "frames": 5120
+ },
+ "A|template|sub-06|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": -1,
+  "mcd": 28.07595544665105,
+  "mcd_speech": 58.13491031580691,
+  "frames": 5120
+ },
+ "A|hybrid|sub-07|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": -1,
+  "mcd": 29.68416737466986,
+  "mcd_speech": 64.97420947428799,
+  "frames": 5120
+ },
+ "A|template|sub-07|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": -1,
+  "mcd": 28.157870825538556,
+  "mcd_speech": 60.74587942391688,
+  "frames": 5120
+ },
+ "A|hybrid|sub-08|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": -1,
+  "mcd": 30.2808098395125,
+  "mcd_speech": 67.75489965568006,
+  "frames": 5120
+ },
+ "A|template|sub-08|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": -1,
+  "mcd": 28.314144684645406,
+  "mcd_speech": 62.94890432857467,
+  "frames": 5120
+ },
+ "A|hybrid|sub-09|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": -1,
+  "mcd": 28.747749138021703,
+  "mcd_speech": 61.298409356222116,
+  "frames": 5120
+ },
+ "A|template|sub-09|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": -1,
+  "mcd": 28.721534036068697,
+  "mcd_speech": 59.6165327679815,
+  "frames": 5120
+ },
+ "A|hybrid|sub-10|-": {
+  "stage": "A",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": -1,
+  "mcd": 30.10701621296125,
+  "mcd_speech": 69.16346853231188,
+  "frames": 4608
+ },
+ "A|template|sub-10|-": {
+  "stage": "A",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": -1,
+  "mcd": 29.989175789918804,
+  "mcd_speech": 77.94704435174924,
+  "frames": 4608
+ },
+ "A|neuroincept|sub-01|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": -1,
+  "mcd": 35.65390580626445,
+  "mcd_speech": 68.35862472833001,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-02|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": -1,
+  "mcd": 38.2267512055971,
+  "mcd_speech": 78.72204898829753,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-03|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": -1,
+  "mcd": 33.22180838531529,
+  "mcd_speech": 62.67600456705277,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-04|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": -1,
+  "mcd": 33.88363299347134,
+  "mcd_speech": 66.6089338945144,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-05|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": -1,
+  "mcd": 38.161886697730395,
+  "mcd_speech": 75.0699811564687,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-06|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": -1,
+  "mcd": 30.03353410833673,
+  "mcd_speech": 59.05165458731505,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-07|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": -1,
+  "mcd": 30.30962285519636,
+  "mcd_speech": 63.99196904960609,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-08|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": -1,
+  "mcd": 32.67493363492815,
+  "mcd_speech": 67.30239151097943,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-09|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": -1,
+  "mcd": 30.46221945446812,
+  "mcd_speech": 65.71152931120642,
+  "frames": 5120
+ },
+ "A|neuroincept|sub-10|-": {
+  "stage": "A",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": -1,
+  "mcd": 30.752148926047653,
+  "mcd_speech": 75.61190721191716,
+  "frames": 4608
+ },
+ "A|convedsr|sub-01|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": -1,
+  "mcd": 35.823074159123586,
+  "mcd_speech": 71.04583764362867,
+  "frames": 5120
+ },
+ "A|convedsr|sub-02|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": -1,
+  "mcd": 36.53792831058324,
+  "mcd_speech": 77.93265953758294,
+  "frames": 5120
+ },
+ "A|convedsr|sub-03|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": -1,
+  "mcd": 34.90966132154256,
+  "mcd_speech": 65.13718861223012,
+  "frames": 5120
+ },
+ "A|convedsr|sub-04|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": -1,
+  "mcd": 33.91559228695894,
+  "mcd_speech": 67.99077149959949,
+  "frames": 5120
+ },
+ "A|convedsr|sub-05|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": -1,
+  "mcd": 38.38818137473307,
+  "mcd_speech": 75.64032134803497,
+  "frames": 5120
+ },
+ "A|convedsr|sub-06|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": -1,
+  "mcd": 30.04252370899071,
+  "mcd_speech": 59.677236833289975,
+  "frames": 5120
+ },
+ "A|convedsr|sub-07|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": -1,
+  "mcd": 30.902125586195233,
+  "mcd_speech": 69.02360125104616,
+  "frames": 5120
+ },
+ "A|convedsr|sub-08|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": -1,
+  "mcd": 33.31156617665293,
+  "mcd_speech": 71.32542746208875,
+  "frames": 5120
+ },
+ "A|convedsr|sub-09|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": -1,
+  "mcd": 32.25590930005029,
+  "mcd_speech": 70.27911056332195,
+  "frames": 5120
+ },
+ "A|convedsr|sub-10|-": {
+  "stage": "A",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": -1,
+  "mcd": 33.294791237193316,
+  "mcd_speech": 87.20278274320178,
+  "frames": 4608
+ },
+ "B|baseline|sub-01|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 0,
+  "mcd": 35.96310139834801,
+  "mcd_speech": 59.01654814275771,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 1,
+  "mcd": 29.3426473606454,
+  "mcd_speech": 60.887911001190396,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 2,
+  "mcd": 35.5148182725998,
+  "mcd_speech": 64.55149757718436,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 3,
+  "mcd": 32.517908842876516,
+  "mcd_speech": 63.375794018486545,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 4,
+  "mcd": 30.354549420233326,
+  "mcd_speech": 64.16913584979726,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 5,
+  "mcd": 32.66074498696392,
+  "mcd_speech": 60.53787242291617,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 6,
+  "mcd": 30.585230663543776,
+  "mcd_speech": 63.88012316770508,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 7,
+  "mcd": 30.52074689188757,
+  "mcd_speech": 57.79015959152368,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 8,
+  "mcd": 27.945582714509875,
+  "mcd_speech": 54.02838047098473,
+  "frames": 2560
+ },
+ "B|baseline|sub-01|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-01",
+  "fold": 9,
+  "mcd": 32.428054011472526,
+  "mcd_speech": 75.02805810949505,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 0,
+  "mcd": 35.92902007348299,
+  "mcd_speech": 67.69216559445185,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 1,
+  "mcd": 29.377500616630936,
+  "mcd_speech": 64.98852892779988,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 2,
+  "mcd": 32.793040019039594,
+  "mcd_speech": 66.52034963616835,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 3,
+  "mcd": 37.335540108258805,
+  "mcd_speech": 75.8491004986914,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 4,
+  "mcd": 35.458162776321274,
+  "mcd_speech": 74.00980436725307,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 5,
+  "mcd": 33.835069126606285,
+  "mcd_speech": 60.67266921868156,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 6,
+  "mcd": 34.242894187598736,
+  "mcd_speech": 71.19280370092096,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 7,
+  "mcd": 32.784592919851676,
+  "mcd_speech": 71.15340171890908,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 8,
+  "mcd": 38.17605726239964,
+  "mcd_speech": 76.34131165554165,
+  "frames": 2560
+ },
+ "B|baseline|sub-02|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-02",
+  "fold": 9,
+  "mcd": 36.22758763301435,
+  "mcd_speech": 72.35089485793833,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 0,
+  "mcd": 36.77165963949578,
+  "mcd_speech": 55.20400830058803,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 1,
+  "mcd": 30.097388306663333,
+  "mcd_speech": 54.66220635689767,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 2,
+  "mcd": 31.62776691614808,
+  "mcd_speech": 57.18653401979938,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 3,
+  "mcd": 30.091345578031348,
+  "mcd_speech": 57.934870766684384,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 4,
+  "mcd": 31.277158575340547,
+  "mcd_speech": 58.550137087315065,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 5,
+  "mcd": 30.15173893452634,
+  "mcd_speech": 53.826178948084355,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 6,
+  "mcd": 30.38616574494454,
+  "mcd_speech": 56.24383432269609,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 7,
+  "mcd": 28.551208208441786,
+  "mcd_speech": 57.78457609173488,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 8,
+  "mcd": 28.63834368972158,
+  "mcd_speech": 54.598098393794146,
+  "frames": 2560
+ },
+ "B|baseline|sub-03|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-03",
+  "fold": 9,
+  "mcd": 29.477174707086157,
+  "mcd_speech": 56.68975882787557,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 0,
+  "mcd": 32.71699190905107,
+  "mcd_speech": 61.04723701305741,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 1,
+  "mcd": 32.01193465126097,
+  "mcd_speech": 61.87182597114855,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 2,
+  "mcd": 28.131505163550578,
+  "mcd_speech": 58.08829458197909,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 3,
+  "mcd": 29.794754302614102,
+  "mcd_speech": 60.408566030316216,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 4,
+  "mcd": 30.62517898547934,
+  "mcd_speech": 62.4518883364465,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 5,
+  "mcd": 29.183964070340096,
+  "mcd_speech": 57.73822203523614,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 6,
+  "mcd": 30.790731007969406,
+  "mcd_speech": 62.09622803117905,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 7,
+  "mcd": 32.72226706947335,
+  "mcd_speech": 62.92754126165648,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 8,
+  "mcd": 29.215106561001466,
+  "mcd_speech": 61.91127553997585,
+  "frames": 2560
+ },
+ "B|baseline|sub-04|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-04",
+  "fold": 9,
+  "mcd": 29.231163582874945,
+  "mcd_speech": 59.86532377265975,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 0,
+  "mcd": 37.12248103196758,
+  "mcd_speech": 68.42802312031174,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 1,
+  "mcd": 33.36771050048117,
+  "mcd_speech": 64.24125736555197,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 2,
+  "mcd": 35.91230838878471,
+  "mcd_speech": 71.1018379932113,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 3,
+  "mcd": 37.814050561339364,
+  "mcd_speech": 64.66414437917304,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 4,
+  "mcd": 37.89605746220821,
+  "mcd_speech": 66.61299998396105,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 5,
+  "mcd": 36.88766689607314,
+  "mcd_speech": 67.8523188195458,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 6,
+  "mcd": 36.923016140850066,
+  "mcd_speech": 67.04038864172144,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 7,
+  "mcd": 37.59606129764619,
+  "mcd_speech": 78.46357331000709,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 8,
+  "mcd": 36.098751920879465,
+  "mcd_speech": 74.69939657870613,
+  "frames": 2560
+ },
+ "B|baseline|sub-05|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-05",
+  "fold": 9,
+  "mcd": 38.84804883284166,
+  "mcd_speech": 71.79897656419665,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 0,
+  "mcd": 30.783503624883952,
+  "mcd_speech": 60.397188483992956,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 1,
+  "mcd": 28.16091354938942,
+  "mcd_speech": 58.942762072098056,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 2,
+  "mcd": 26.244303811121256,
+  "mcd_speech": 57.036204072607596,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 3,
+  "mcd": 26.102458721802215,
+  "mcd_speech": 54.97242719244232,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 4,
+  "mcd": 26.381379257396542,
+  "mcd_speech": 58.81153465112835,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 5,
+  "mcd": 28.37357538518886,
+  "mcd_speech": 58.040242673542,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 6,
+  "mcd": 27.516517139775555,
+  "mcd_speech": 55.02898562359465,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 7,
+  "mcd": 27.979541304017733,
+  "mcd_speech": 54.992959362827115,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 8,
+  "mcd": 26.631241538240623,
+  "mcd_speech": 54.88741746620433,
+  "frames": 2560
+ },
+ "B|baseline|sub-06|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-06",
+  "fold": 9,
+  "mcd": 24.394349057930494,
+  "mcd_speech": 48.784484322883635,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 0,
+  "mcd": 29.57667070367064,
+  "mcd_speech": 61.1457732581293,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 1,
+  "mcd": 32.83198964130118,
+  "mcd_speech": 59.917763048044144,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 2,
+  "mcd": 29.89111717662903,
+  "mcd_speech": 58.619437568275,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 3,
+  "mcd": 29.415441082844563,
+  "mcd_speech": 58.72655731890478,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 4,
+  "mcd": 26.947534708058605,
+  "mcd_speech": 56.44540534959138,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 5,
+  "mcd": 31.487195583028893,
+  "mcd_speech": 61.62748077462604,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 6,
+  "mcd": 28.200968838845824,
+  "mcd_speech": 56.59700918546758,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 7,
+  "mcd": 27.93228886327115,
+  "mcd_speech": 57.11205220419308,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 8,
+  "mcd": 29.294897792077258,
+  "mcd_speech": 62.98093669438231,
+  "frames": 2560
+ },
+ "B|baseline|sub-07|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-07",
+  "fold": 9,
+  "mcd": 26.25331133017344,
+  "mcd_speech": 52.00023556981473,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 0,
+  "mcd": 34.24841917750617,
+  "mcd_speech": 60.74687269076576,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 1,
+  "mcd": 31.09460084636238,
+  "mcd_speech": 59.96398082340285,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 2,
+  "mcd": 30.701478589006012,
+  "mcd_speech": 61.18237739994155,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 3,
+  "mcd": 32.49896830417944,
+  "mcd_speech": 66.51288861641949,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 4,
+  "mcd": 32.32573546841717,
+  "mcd_speech": 66.17789845435246,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 5,
+  "mcd": 29.838808420503746,
+  "mcd_speech": 65.02123063041644,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 6,
+  "mcd": 31.512934261458007,
+  "mcd_speech": 63.0166017358322,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 7,
+  "mcd": 31.207824251580508,
+  "mcd_speech": 69.21288491822476,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 8,
+  "mcd": 32.09869404219247,
+  "mcd_speech": 62.63432255742084,
+  "frames": 2560
+ },
+ "B|baseline|sub-08|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-08",
+  "fold": 9,
+  "mcd": 33.704660293837584,
+  "mcd_speech": 67.5275184789644,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 0,
+  "mcd": 30.887781339789477,
+  "mcd_speech": 62.28532651101821,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 1,
+  "mcd": 27.261528205458916,
+  "mcd_speech": 56.143275923069105,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 2,
+  "mcd": 28.58532024431729,
+  "mcd_speech": 63.47059990072837,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 3,
+  "mcd": 29.531475024933876,
+  "mcd_speech": 58.49528443442627,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 4,
+  "mcd": 29.950200572064272,
+  "mcd_speech": 55.65858332333506,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 5,
+  "mcd": 29.756735410485827,
+  "mcd_speech": 59.797717259273014,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 6,
+  "mcd": 31.571952875471318,
+  "mcd_speech": 56.99750196221281,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 7,
+  "mcd": 27.53518234281932,
+  "mcd_speech": 56.229585961057815,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 8,
+  "mcd": 28.57974786897413,
+  "mcd_speech": 56.31857747412163,
+  "frames": 2560
+ },
+ "B|baseline|sub-09|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-09",
+  "fold": 9,
+  "mcd": 27.8311408310147,
+  "mcd_speech": 52.00928878345122,
+  "frames": 2560
+ },
+ "B|baseline|sub-10|0": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 0,
+  "mcd": 32.370430180092136,
+  "mcd_speech": 63.59340492289649,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|1": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 1,
+  "mcd": 29.20107153091333,
+  "mcd_speech": 68.08624000575809,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|2": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 2,
+  "mcd": 27.834645023536936,
+  "mcd_speech": 64.3530915030164,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|3": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 3,
+  "mcd": 26.049834513936357,
+  "mcd_speech": 68.66107527169116,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|4": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 4,
+  "mcd": 26.78333203532921,
+  "mcd_speech": 61.831770462298735,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|5": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 5,
+  "mcd": 26.262505521369693,
+  "mcd_speech": 63.824277573263885,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|6": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 6,
+  "mcd": 28.091432905137133,
+  "mcd_speech": 72.81874373560984,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|7": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 7,
+  "mcd": 30.507741057290062,
+  "mcd_speech": 78.26871859092523,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|8": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 8,
+  "mcd": 27.95863044345842,
+  "mcd_speech": 65.06847749010477,
+  "frames": 2304
+ },
+ "B|baseline|sub-10|9": {
+  "stage": "B",
+  "system": "baseline",
+  "subject": "sub-10",
+  "fold": 9,
+  "mcd": 27.87634381254406,
+  "mcd_speech": 75.7691408872802,
+  "frames": 2304
+ },
+ "B|convedsr|sub-01|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 0,
+  "mcd": 40.482558040313336,
+  "mcd_speech": 68.23360872690242,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 1,
+  "mcd": 33.074778139959434,
+  "mcd_speech": 68.36749068742843,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 2,
+  "mcd": 38.54368018774039,
+  "mcd_speech": 75.89995300368989,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 3,
+  "mcd": 35.557103759894595,
+  "mcd_speech": 68.07077930772861,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 4,
+  "mcd": 33.332416660461455,
+  "mcd_speech": 68.80972280325355,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 5,
+  "mcd": 35.453408668525626,
+  "mcd_speech": 70.17236452815315,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 6,
+  "mcd": 33.3928756742567,
+  "mcd_speech": 69.3700934817813,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 7,
+  "mcd": 32.60808750200632,
+  "mcd_speech": 64.48413262751848,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 8,
+  "mcd": 29.543386834989455,
+  "mcd_speech": 64.64836566710363,
+  "frames": 2560
+ },
+ "B|convedsr|sub-01|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-01",
+  "fold": 9,
+  "mcd": 34.574091433730004,
+  "mcd_speech": 72.83426404580948,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 0,
+  "mcd": 39.73476806821374,
+  "mcd_speech": 75.5065730260851,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 1,
+  "mcd": 34.32783445103443,
+  "mcd_speech": 76.77778024770298,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 2,
+  "mcd": 35.65198744702647,
+  "mcd_speech": 72.38638971778241,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 3,
+  "mcd": 41.039313324028434,
+  "mcd_speech": 81.96261179776099,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 4,
+  "mcd": 38.436178265221976,
+  "mcd_speech": 79.44204618868746,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 5,
+  "mcd": 38.668465708138335,
+  "mcd_speech": 78.33301821910258,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 6,
+  "mcd": 39.470259759494255,
+  "mcd_speech": 77.62277958979416,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 7,
+  "mcd": 33.78055126665837,
+  "mcd_speech": 77.77477699289585,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 8,
+  "mcd": 37.92049936929344,
+  "mcd_speech": 80.238017302699,
+  "frames": 2560
+ },
+ "B|convedsr|sub-02|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-02",
+  "fold": 9,
+  "mcd": 41.51606165948638,
+  "mcd_speech": 76.16058471631966,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 0,
+  "mcd": 38.862359352493044,
+  "mcd_speech": 60.291593108422056,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 1,
+  "mcd": 34.2658230306475,
+  "mcd_speech": 60.05690215733133,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 2,
+  "mcd": 30.917477074001038,
+  "mcd_speech": 57.06961418646714,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 3,
+  "mcd": 34.00638518730621,
+  "mcd_speech": 63.15049122581103,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 4,
+  "mcd": 33.997191603092894,
+  "mcd_speech": 63.66856712324655,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 5,
+  "mcd": 32.87419964337234,
+  "mcd_speech": 55.09089478992207,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 6,
+  "mcd": 33.09370031049746,
+  "mcd_speech": 59.175789974126516,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 7,
+  "mcd": 28.786250686987966,
+  "mcd_speech": 60.4738337146124,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 8,
+  "mcd": 31.309050524702606,
+  "mcd_speech": 57.95847010679926,
+  "frames": 2560
+ },
+ "B|convedsr|sub-03|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-03",
+  "fold": 9,
+  "mcd": 31.488084621088966,
+  "mcd_speech": 61.731051306808745,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 0,
+  "mcd": 37.027809780136344,
+  "mcd_speech": 69.7697485427284,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 1,
+  "mcd": 38.093639335206674,
+  "mcd_speech": 67.00633259125436,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 2,
+  "mcd": 32.1731867825676,
+  "mcd_speech": 63.711425698611734,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 3,
+  "mcd": 32.391147740665346,
+  "mcd_speech": 62.604571013974514,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 4,
+  "mcd": 33.338818133921755,
+  "mcd_speech": 67.47069626707099,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 5,
+  "mcd": 32.008712777712816,
+  "mcd_speech": 59.74204256173861,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 6,
+  "mcd": 34.37459829583038,
+  "mcd_speech": 68.4501830066767,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 7,
+  "mcd": 35.37687292547982,
+  "mcd_speech": 65.57556766216788,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 8,
+  "mcd": 30.7653055204781,
+  "mcd_speech": 62.75613711974567,
+  "frames": 2560
+ },
+ "B|convedsr|sub-04|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-04",
+  "fold": 9,
+  "mcd": 32.32331441719715,
+  "mcd_speech": 64.7666757013057,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 0,
+  "mcd": 40.06127757594356,
+  "mcd_speech": 77.05424594512581,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 1,
+  "mcd": 36.04764069320497,
+  "mcd_speech": 66.58574232995652,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 2,
+  "mcd": 38.25485421238357,
+  "mcd_speech": 72.48849291431848,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 3,
+  "mcd": 40.47177553664467,
+  "mcd_speech": 72.15094686632709,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 4,
+  "mcd": 40.76481573230947,
+  "mcd_speech": 76.52935968722784,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 5,
+  "mcd": 38.909817207240664,
+  "mcd_speech": 75.30330196564971,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 6,
+  "mcd": 39.46320339053224,
+  "mcd_speech": 73.82809341552787,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 7,
+  "mcd": 39.49769729047274,
+  "mcd_speech": 78.27828802863465,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 8,
+  "mcd": 36.099109753255306,
+  "mcd_speech": 72.99177885969226,
+  "frames": 2560
+ },
+ "B|convedsr|sub-05|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-05",
+  "fold": 9,
+  "mcd": 40.50807596757541,
+  "mcd_speech": 81.67797384603955,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 0,
+  "mcd": 33.20760807980345,
+  "mcd_speech": 62.61497601560248,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 1,
+  "mcd": 30.155523079662792,
+  "mcd_speech": 59.281896463489225,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 2,
+  "mcd": 27.848887302834235,
+  "mcd_speech": 59.468204986036305,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 3,
+  "mcd": 26.26732301686519,
+  "mcd_speech": 54.117711310806634,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 4,
+  "mcd": 27.97215263565921,
+  "mcd_speech": 59.30445663079813,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 5,
+  "mcd": 30.824185922701496,
+  "mcd_speech": 60.00672789960706,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 6,
+  "mcd": 28.40769984555813,
+  "mcd_speech": 54.2637066065704,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 7,
+  "mcd": 28.925970903553612,
+  "mcd_speech": 56.00071794817345,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 8,
+  "mcd": 28.525213084152405,
+  "mcd_speech": 58.48753605355238,
+  "frames": 2560
+ },
+ "B|convedsr|sub-06|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-06",
+  "fold": 9,
+  "mcd": 26.2032958519787,
+  "mcd_speech": 51.84591164388298,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 0,
+  "mcd": 31.922667035959954,
+  "mcd_speech": 65.00250986739358,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 1,
+  "mcd": 32.91389881073657,
+  "mcd_speech": 58.32159028624243,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 2,
+  "mcd": 29.889782307439884,
+  "mcd_speech": 63.00523035988187,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 3,
+  "mcd": 31.139855461954966,
+  "mcd_speech": 60.55334339574852,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 4,
+  "mcd": 28.387973352490526,
+  "mcd_speech": 58.11511196219309,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 5,
+  "mcd": 34.705063988022076,
+  "mcd_speech": 71.63718267470428,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 6,
+  "mcd": 29.69904797571446,
+  "mcd_speech": 62.52426839624817,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 7,
+  "mcd": 30.56269752265907,
+  "mcd_speech": 66.68780075115932,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 8,
+  "mcd": 31.718953780708148,
+  "mcd_speech": 68.73878764931858,
+  "frames": 2560
+ },
+ "B|convedsr|sub-07|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-07",
+  "fold": 9,
+  "mcd": 28.97750754269223,
+  "mcd_speech": 55.15750725771693,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 0,
+  "mcd": 34.6596788382037,
+  "mcd_speech": 63.077195800501876,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 1,
+  "mcd": 33.966941214436794,
+  "mcd_speech": 65.36449786043201,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 2,
+  "mcd": 32.875137570857405,
+  "mcd_speech": 68.34438390692593,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 3,
+  "mcd": 34.774710071767636,
+  "mcd_speech": 75.19478140939226,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 4,
+  "mcd": 33.80012470102209,
+  "mcd_speech": 70.0226012440277,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 5,
+  "mcd": 33.08748483683442,
+  "mcd_speech": 73.2237102128167,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 6,
+  "mcd": 34.35767509336887,
+  "mcd_speech": 71.02018288162215,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 7,
+  "mcd": 33.57202425909223,
+  "mcd_speech": 76.66071275653172,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 8,
+  "mcd": 33.70196102658356,
+  "mcd_speech": 65.71440130889877,
+  "frames": 2560
+ },
+ "B|convedsr|sub-08|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-08",
+  "fold": 9,
+  "mcd": 36.642371402614444,
+  "mcd_speech": 64.94812606386395,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 0,
+  "mcd": 32.83731104798561,
+  "mcd_speech": 68.26156513305332,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 1,
+  "mcd": 30.723040722363315,
+  "mcd_speech": 67.03420693278976,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 2,
+  "mcd": 32.90923287947273,
+  "mcd_speech": 69.06625642656184,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 3,
+  "mcd": 32.41948264484951,
+  "mcd_speech": 65.80795152410374,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 4,
+  "mcd": 33.97479644664714,
+  "mcd_speech": 65.60150129634167,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 5,
+  "mcd": 33.02646135707379,
+  "mcd_speech": 66.07322783561759,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 6,
+  "mcd": 33.483251920925106,
+  "mcd_speech": 65.09398471635937,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 7,
+  "mcd": 31.706832166443498,
+  "mcd_speech": 68.99825051497437,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 8,
+  "mcd": 31.17357828268344,
+  "mcd_speech": 64.60048293081194,
+  "frames": 2560
+ },
+ "B|convedsr|sub-09|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-09",
+  "fold": 9,
+  "mcd": 31.22364093896415,
+  "mcd_speech": 56.87257121264473,
+  "frames": 2560
+ },
+ "B|convedsr|sub-10|0": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 0,
+  "mcd": 35.815441424684096,
+  "mcd_speech": 65.62626477692645,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|1": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 1,
+  "mcd": 30.438086524389306,
+  "mcd_speech": 70.25032375547131,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|2": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 2,
+  "mcd": 31.484679201582782,
+  "mcd_speech": 73.79647529249571,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|3": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 3,
+  "mcd": 29.685723089177813,
+  "mcd_speech": 76.68433958773369,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|4": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 4,
+  "mcd": 31.56222337075072,
+  "mcd_speech": 72.02841301249312,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|5": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 5,
+  "mcd": 29.00040731924247,
+  "mcd_speech": 73.83362693371703,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|6": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 6,
+  "mcd": 30.95849137911626,
+  "mcd_speech": 81.83377116089109,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|7": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 7,
+  "mcd": 31.457485881435318,
+  "mcd_speech": 74.60025702657799,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|8": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 8,
+  "mcd": 32.79162167484477,
+  "mcd_speech": 72.75333724688248,
+  "frames": 2304
+ },
+ "B|convedsr|sub-10|9": {
+  "stage": "B",
+  "system": "convedsr",
+  "subject": "sub-10",
+  "fold": 9,
+  "mcd": 29.964197544844378,
+  "mcd_speech": 79.78204143370722,
+  "frames": 2304
+ },
+ "B|hybrid|sub-01|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 0,
+  "mcd": 36.033366222147016,
+  "mcd_speech": 63.621204787738534,
+  "frames": 2560
+ },
+ "B|template|sub-01|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 0,
+  "mcd": 34.117201596195116,
+  "mcd_speech": 61.020273005532324,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 1,
+  "mcd": 29.051412876502855,
+  "mcd_speech": 58.417666701301165,
+  "frames": 2560
+ },
+ "B|template|sub-01|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 1,
+  "mcd": 28.79047024560142,
+  "mcd_speech": 60.195578899480005,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 2,
+  "mcd": 36.10162013743942,
+  "mcd_speech": 67.53495696404,
+  "frames": 2560
+ },
+ "B|template|sub-01|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 2,
+  "mcd": 34.64338567587753,
+  "mcd_speech": 70.40541130369729,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 3,
+  "mcd": 32.35113768399482,
+  "mcd_speech": 64.25158213930608,
+  "frames": 2560
+ },
+ "B|template|sub-01|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 3,
+  "mcd": 30.940601061074695,
+  "mcd_speech": 63.4327233322598,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 4,
+  "mcd": 28.623009896374118,
+  "mcd_speech": 56.20295877689666,
+  "frames": 2560
+ },
+ "B|template|sub-01|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 4,
+  "mcd": 31.471775662529865,
+  "mcd_speech": 64.4950399407264,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 5,
+  "mcd": 32.60488769156732,
+  "mcd_speech": 59.818991738116445,
+  "frames": 2560
+ },
+ "B|template|sub-01|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 5,
+  "mcd": 31.098053859397986,
+  "mcd_speech": 62.15728216403231,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 6,
+  "mcd": 29.900619925279795,
+  "mcd_speech": 59.63529751340293,
+  "frames": 2560
+ },
+ "B|template|sub-01|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 6,
+  "mcd": 29.34116763283659,
+  "mcd_speech": 59.06326910347384,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 7,
+  "mcd": 31.237037695939563,
+  "mcd_speech": 59.07603112264902,
+  "frames": 2560
+ },
+ "B|template|sub-01|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 7,
+  "mcd": 30.604175126917074,
+  "mcd_speech": 61.72619890001186,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 8,
+  "mcd": 28.52429435214673,
+  "mcd_speech": 54.514002843425175,
+  "frames": 2560
+ },
+ "B|template|sub-01|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 8,
+  "mcd": 28.116596829733226,
+  "mcd_speech": 55.37587173161692,
+  "frames": 2560
+ },
+ "B|hybrid|sub-01|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-01",
+  "fold": 9,
+  "mcd": 31.7096230178148,
+  "mcd_speech": 68.52257225481458,
+  "frames": 2560
+ },
+ "B|template|sub-01|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-01",
+  "fold": 9,
+  "mcd": 30.697787078743875,
+  "mcd_speech": 67.96243710242449,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 0,
+  "mcd": 36.05817151551869,
+  "mcd_speech": 69.77536914499971,
+  "frames": 2560
+ },
+ "B|template|sub-02|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 0,
+  "mcd": 37.09390661279085,
+  "mcd_speech": 71.77282805361448,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 1,
+  "mcd": 29.255100134793413,
+  "mcd_speech": 61.86550859796828,
+  "frames": 2560
+ },
+ "B|template|sub-02|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 1,
+  "mcd": 29.15862289484121,
+  "mcd_speech": 61.16357384135138,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 2,
+  "mcd": 32.961337821228135,
+  "mcd_speech": 66.85721727199783,
+  "frames": 2560
+ },
+ "B|template|sub-02|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 2,
+  "mcd": 31.46889081302381,
+  "mcd_speech": 65.52872640430517,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 3,
+  "mcd": 38.065541553189874,
+  "mcd_speech": 73.57034201636536,
+  "frames": 2560
+ },
+ "B|template|sub-02|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 3,
+  "mcd": 34.40570731322889,
+  "mcd_speech": 70.83959282780542,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 4,
+  "mcd": 35.27687485691312,
+  "mcd_speech": 73.68172824855064,
+  "frames": 2560
+ },
+ "B|template|sub-02|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 4,
+  "mcd": 33.70417948384263,
+  "mcd_speech": 73.4377384600325,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 5,
+  "mcd": 34.379591109588965,
+  "mcd_speech": 61.59406443767601,
+  "frames": 2560
+ },
+ "B|template|sub-02|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 5,
+  "mcd": 34.74882577498702,
+  "mcd_speech": 66.77257370020489,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 6,
+  "mcd": 35.497661804494115,
+  "mcd_speech": 74.0081830985966,
+  "frames": 2560
+ },
+ "B|template|sub-02|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 6,
+  "mcd": 34.74184330833267,
+  "mcd_speech": 72.87760792946098,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 7,
+  "mcd": 31.36079178852008,
+  "mcd_speech": 70.63678951402467,
+  "frames": 2560
+ },
+ "B|template|sub-02|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 7,
+  "mcd": 32.56909241103659,
+  "mcd_speech": 74.01080041967703,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 8,
+  "mcd": 38.07102268997066,
+  "mcd_speech": 81.09169886655445,
+  "frames": 2560
+ },
+ "B|template|sub-02|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 8,
+  "mcd": 32.118887470161965,
+  "mcd_speech": 69.44811553065728,
+  "frames": 2560
+ },
+ "B|hybrid|sub-02|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-02",
+  "fold": 9,
+  "mcd": 34.7920213126193,
+  "mcd_speech": 73.08884115716111,
+  "frames": 2560
+ },
+ "B|template|sub-02|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-02",
+  "fold": 9,
+  "mcd": 33.08810914162679,
+  "mcd_speech": 70.57241827843752,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 0,
+  "mcd": 37.17615868821042,
+  "mcd_speech": 55.04838838560547,
+  "frames": 2560
+ },
+ "B|template|sub-03|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 0,
+  "mcd": 43.99202843324842,
+  "mcd_speech": 72.23242223961789,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 1,
+  "mcd": 30.48698460380366,
+  "mcd_speech": 56.032925348430545,
+  "frames": 2560
+ },
+ "B|template|sub-03|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 1,
+  "mcd": 35.90779297783174,
+  "mcd_speech": 64.96105075362041,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 2,
+  "mcd": 32.334241033794584,
+  "mcd_speech": 56.657477972758045,
+  "frames": 2560
+ },
+ "B|template|sub-03|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 2,
+  "mcd": 30.028181061665435,
+  "mcd_speech": 58.75611141693707,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 3,
+  "mcd": 30.318156356156187,
+  "mcd_speech": 58.01054451742206,
+  "frames": 2560
+ },
+ "B|template|sub-03|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 3,
+  "mcd": 34.75599178296859,
+  "mcd_speech": 63.816276070947175,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 4,
+  "mcd": 30.438099128965284,
+  "mcd_speech": 59.57674572533293,
+  "frames": 2560
+ },
+ "B|template|sub-03|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 4,
+  "mcd": 32.82992161222879,
+  "mcd_speech": 64.82716209898228,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 5,
+  "mcd": 29.03251452304024,
+  "mcd_speech": 51.545826606096895,
+  "frames": 2560
+ },
+ "B|template|sub-03|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 5,
+  "mcd": 33.53041943485168,
+  "mcd_speech": 61.48295148486193,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 6,
+  "mcd": 30.494502448036236,
+  "mcd_speech": 57.03037805427349,
+  "frames": 2560
+ },
+ "B|template|sub-03|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 6,
+  "mcd": 36.2429387316609,
+  "mcd_speech": 66.26912833633348,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 7,
+  "mcd": 27.51273769646565,
+  "mcd_speech": 56.70485284835117,
+  "frames": 2560
+ },
+ "B|template|sub-03|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 7,
+  "mcd": 29.701300304331415,
+  "mcd_speech": 60.96903155112027,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 8,
+  "mcd": 28.28018929587352,
+  "mcd_speech": 55.86500714215486,
+  "frames": 2560
+ },
+ "B|template|sub-03|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 8,
+  "mcd": 32.918883415573404,
+  "mcd_speech": 63.136098695076754,
+  "frames": 2560
+ },
+ "B|hybrid|sub-03|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-03",
+  "fold": 9,
+  "mcd": 28.875204953045046,
+  "mcd_speech": 55.94522907798646,
+  "frames": 2560
+ },
+ "B|template|sub-03|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-03",
+  "fold": 9,
+  "mcd": 31.391294681534486,
+  "mcd_speech": 60.21684155742578,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 0,
+  "mcd": 33.18464862451465,
+  "mcd_speech": 58.86646247354119,
+  "frames": 2560
+ },
+ "B|template|sub-04|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 0,
+  "mcd": 33.83379839966521,
+  "mcd_speech": 63.280147359069716,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 1,
+  "mcd": 33.98588596445742,
+  "mcd_speech": 64.81782839476203,
+  "frames": 2560
+ },
+ "B|template|sub-04|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 1,
+  "mcd": 35.40606744769506,
+  "mcd_speech": 67.3307715621119,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 2,
+  "mcd": 28.799273561041343,
+  "mcd_speech": 58.133945541964835,
+  "frames": 2560
+ },
+ "B|template|sub-04|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 2,
+  "mcd": 29.443422382015324,
+  "mcd_speech": 59.72882353563819,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 3,
+  "mcd": 28.771254714899225,
+  "mcd_speech": 58.030388217698004,
+  "frames": 2560
+ },
+ "B|template|sub-04|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 3,
+  "mcd": 31.292994661959618,
+  "mcd_speech": 63.141259619299916,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 4,
+  "mcd": 30.085628097400082,
+  "mcd_speech": 59.60292029650102,
+  "frames": 2560
+ },
+ "B|template|sub-04|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 4,
+  "mcd": 30.132036651147462,
+  "mcd_speech": 63.016660443527144,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 5,
+  "mcd": 29.435820623569974,
+  "mcd_speech": 58.2876528469754,
+  "frames": 2560
+ },
+ "B|template|sub-04|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 5,
+  "mcd": 29.53558551035353,
+  "mcd_speech": 59.106928563563535,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 6,
+  "mcd": 30.26378028739068,
+  "mcd_speech": 60.18655040062355,
+  "frames": 2560
+ },
+ "B|template|sub-04|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 6,
+  "mcd": 31.238043018948794,
+  "mcd_speech": 64.40096899568947,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 7,
+  "mcd": 31.605723920893787,
+  "mcd_speech": 61.49491680439733,
+  "frames": 2560
+ },
+ "B|template|sub-04|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 7,
+  "mcd": 31.489519312070417,
+  "mcd_speech": 63.33312637335374,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 8,
+  "mcd": 29.324149233368054,
+  "mcd_speech": 61.58368339884751,
+  "frames": 2560
+ },
+ "B|template|sub-04|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 8,
+  "mcd": 29.71264865915399,
+  "mcd_speech": 60.85828913013856,
+  "frames": 2560
+ },
+ "B|hybrid|sub-04|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-04",
+  "fold": 9,
+  "mcd": 30.102936578029198,
+  "mcd_speech": 61.13426220014126,
+  "frames": 2560
+ },
+ "B|template|sub-04|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-04",
+  "fold": 9,
+  "mcd": 29.08036856350701,
+  "mcd_speech": 60.01525726393019,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 0,
+  "mcd": 38.14889056352743,
+  "mcd_speech": 72.05912806043654,
+  "frames": 2560
+ },
+ "B|template|sub-05|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 0,
+  "mcd": 37.63061498543989,
+  "mcd_speech": 72.34271357006459,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 1,
+  "mcd": 32.73129887146517,
+  "mcd_speech": 68.76415858917304,
+  "frames": 2560
+ },
+ "B|template|sub-05|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 1,
+  "mcd": 30.628090059689885,
+  "mcd_speech": 63.72786279362603,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 2,
+  "mcd": 36.6244334186609,
+  "mcd_speech": 70.85413559049984,
+  "frames": 2560
+ },
+ "B|template|sub-05|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 2,
+  "mcd": 32.54411419244002,
+  "mcd_speech": 68.732699880635,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 3,
+  "mcd": 38.472822388782404,
+  "mcd_speech": 65.87893345312641,
+  "frames": 2560
+ },
+ "B|template|sub-05|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 3,
+  "mcd": 33.64270293462065,
+  "mcd_speech": 63.85211348996427,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 4,
+  "mcd": 37.78181693898716,
+  "mcd_speech": 65.31992383217239,
+  "frames": 2560
+ },
+ "B|template|sub-05|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 4,
+  "mcd": 36.88362772110702,
+  "mcd_speech": 70.55585336100759,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 5,
+  "mcd": 34.225756130773995,
+  "mcd_speech": 66.22612632155817,
+  "frames": 2560
+ },
+ "B|template|sub-05|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 5,
+  "mcd": 31.09026542803656,
+  "mcd_speech": 64.44297850312189,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 6,
+  "mcd": 37.42026009142883,
+  "mcd_speech": 71.72481347460761,
+  "frames": 2560
+ },
+ "B|template|sub-05|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 6,
+  "mcd": 32.61456537631596,
+  "mcd_speech": 63.46414211044068,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 7,
+  "mcd": 37.40980995879512,
+  "mcd_speech": 72.65555860679562,
+  "frames": 2560
+ },
+ "B|template|sub-05|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 7,
+  "mcd": 35.44088786959009,
+  "mcd_speech": 67.05702724431313,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 8,
+  "mcd": 37.733199886844595,
+  "mcd_speech": 76.9091283164568,
+  "frames": 2560
+ },
+ "B|template|sub-05|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 8,
+  "mcd": 31.831758902942767,
+  "mcd_speech": 66.725248929667,
+  "frames": 2560
+ },
+ "B|hybrid|sub-05|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-05",
+  "fold": 9,
+  "mcd": 39.14748405992013,
+  "mcd_speech": 74.11473865591023,
+  "frames": 2560
+ },
+ "B|template|sub-05|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-05",
+  "fold": 9,
+  "mcd": 35.54006310655832,
+  "mcd_speech": 68.35580167759794,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 0,
+  "mcd": 30.805244491012097,
+  "mcd_speech": 59.66591866440573,
+  "frames": 2560
+ },
+ "B|template|sub-06|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 0,
+  "mcd": 32.38186126309806,
+  "mcd_speech": 61.96256863276052,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 1,
+  "mcd": 28.829443400376352,
+  "mcd_speech": 61.66796530276874,
+  "frames": 2560
+ },
+ "B|template|sub-06|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 1,
+  "mcd": 29.367476561133277,
+  "mcd_speech": 60.3853181249616,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 2,
+  "mcd": 26.446178453718584,
+  "mcd_speech": 57.03778859485832,
+  "frames": 2560
+ },
+ "B|template|sub-06|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 2,
+  "mcd": 26.858069770186905,
+  "mcd_speech": 57.97946615680032,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 3,
+  "mcd": 25.156258988143502,
+  "mcd_speech": 54.98976120482899,
+  "frames": 2560
+ },
+ "B|template|sub-06|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 3,
+  "mcd": 26.02109275348237,
+  "mcd_speech": 57.462173703542156,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 4,
+  "mcd": 25.96385271672302,
+  "mcd_speech": 56.693597909282545,
+  "frames": 2560
+ },
+ "B|template|sub-06|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 4,
+  "mcd": 27.61188930367923,
+  "mcd_speech": 59.53323698227109,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 5,
+  "mcd": 28.481222924799972,
+  "mcd_speech": 58.20830693029922,
+  "frames": 2560
+ },
+ "B|template|sub-06|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 5,
+  "mcd": 28.899556379649727,
+  "mcd_speech": 59.7975356772228,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 6,
+  "mcd": 27.152039662853745,
+  "mcd_speech": 57.246807079934065,
+  "frames": 2560
+ },
+ "B|template|sub-06|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 6,
+  "mcd": 27.891084225073165,
+  "mcd_speech": 55.53276796025711,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 7,
+  "mcd": 29.009829952890062,
+  "mcd_speech": 57.06609663529004,
+  "frames": 2560
+ },
+ "B|template|sub-06|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 7,
+  "mcd": 29.78619817213981,
+  "mcd_speech": 59.00300691906457,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 8,
+  "mcd": 27.181480422011248,
+  "mcd_speech": 55.12497780823754,
+  "frames": 2560
+ },
+ "B|template|sub-06|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 8,
+  "mcd": 28.47083873053033,
+  "mcd_speech": 57.70882986012036,
+  "frames": 2560
+ },
+ "B|hybrid|sub-06|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-06",
+  "fold": 9,
+  "mcd": 24.522284724819645,
+  "mcd_speech": 49.04842269031107,
+  "frames": 2560
+ },
+ "B|template|sub-06|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-06",
+  "fold": 9,
+  "mcd": 25.706462789812896,
+  "mcd_speech": 50.921971390553615,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 0,
+  "mcd": 31.280084330845558,
+  "mcd_speech": 63.513972835978784,
+  "frames": 2560
+ },
+ "B|template|sub-07|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 0,
+  "mcd": 36.675977014464465,
+  "mcd_speech": 72.53333552774481,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 1,
+  "mcd": 33.52858501931877,
+  "mcd_speech": 62.57533060935692,
+  "frames": 2560
+ },
+ "B|template|sub-07|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 1,
+  "mcd": 34.899855198575295,
+  "mcd_speech": 67.48929561575122,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 2,
+  "mcd": 29.42535719732755,
+  "mcd_speech": 61.380209148783806,
+  "frames": 2560
+ },
+ "B|template|sub-07|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 2,
+  "mcd": 29.022969345806338,
+  "mcd_speech": 62.58251228450181,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 3,
+  "mcd": 28.387203761224974,
+  "mcd_speech": 59.669377607057584,
+  "frames": 2560
+ },
+ "B|template|sub-07|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 3,
+  "mcd": 30.486403567222464,
+  "mcd_speech": 59.66535864910013,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 4,
+  "mcd": 25.203593628742386,
+  "mcd_speech": 55.44779299640094,
+  "frames": 2560
+ },
+ "B|template|sub-07|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 4,
+  "mcd": 28.238779648631986,
+  "mcd_speech": 61.699983965276004,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 5,
+  "mcd": 31.679576985021264,
+  "mcd_speech": 63.941711481629085,
+  "frames": 2560
+ },
+ "B|template|sub-07|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 5,
+  "mcd": 35.360722995118245,
+  "mcd_speech": 76.40968421293249,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 6,
+  "mcd": 25.831581816993843,
+  "mcd_speech": 58.76503056803379,
+  "frames": 2560
+ },
+ "B|template|sub-07|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 6,
+  "mcd": 26.663610972837965,
+  "mcd_speech": 60.625723366427096,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 7,
+  "mcd": 27.231801793920035,
+  "mcd_speech": 57.775701447156855,
+  "frames": 2560
+ },
+ "B|template|sub-07|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 7,
+  "mcd": 27.76271986725402,
+  "mcd_speech": 60.00923581802789,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 8,
+  "mcd": 29.055245728703404,
+  "mcd_speech": 61.59857866185991,
+  "frames": 2560
+ },
+ "B|template|sub-07|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 8,
+  "mcd": 31.048735451069557,
+  "mcd_speech": 67.55078091882879,
+  "frames": 2560
+ },
+ "B|hybrid|sub-07|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-07",
+  "fold": 9,
+  "mcd": 26.725832114435946,
+  "mcd_speech": 55.72438807785362,
+  "frames": 2560
+ },
+ "B|template|sub-07|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-07",
+  "fold": 9,
+  "mcd": 28.561900073989307,
+  "mcd_speech": 58.73332688676597,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 0,
+  "mcd": 34.21065530592358,
+  "mcd_speech": 61.757631235766894,
+  "frames": 2560
+ },
+ "B|template|sub-08|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 0,
+  "mcd": 31.790643210637892,
+  "mcd_speech": 61.57055694092792,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 1,
+  "mcd": 29.774528442470206,
+  "mcd_speech": 58.26491372273794,
+  "frames": 2560
+ },
+ "B|template|sub-08|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 1,
+  "mcd": 27.631458088943816,
+  "mcd_speech": 59.03321505055715,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 2,
+  "mcd": 31.172727356601833,
+  "mcd_speech": 63.25646047093175,
+  "frames": 2560
+ },
+ "B|template|sub-08|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 2,
+  "mcd": 27.14563292738257,
+  "mcd_speech": 59.29394188401573,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 3,
+  "mcd": 30.738860329598594,
+  "mcd_speech": 68.5972749175839,
+  "frames": 2560
+ },
+ "B|template|sub-08|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 3,
+  "mcd": 28.43584321528322,
+  "mcd_speech": 62.62185648552355,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 4,
+  "mcd": 31.654929800135164,
+  "mcd_speech": 65.2271289796214,
+  "frames": 2560
+ },
+ "B|template|sub-08|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 4,
+  "mcd": 31.453024764473803,
+  "mcd_speech": 63.02815518370271,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 5,
+  "mcd": 30.71017943330657,
+  "mcd_speech": 66.47517597792118,
+  "frames": 2560
+ },
+ "B|template|sub-08|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 5,
+  "mcd": 27.04746312689348,
+  "mcd_speech": 59.56382616584343,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 6,
+  "mcd": 32.27148044768006,
+  "mcd_speech": 62.57365047020004,
+  "frames": 2560
+ },
+ "B|template|sub-08|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 6,
+  "mcd": 30.27079657857097,
+  "mcd_speech": 60.380023354647165,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 7,
+  "mcd": 29.527775328912732,
+  "mcd_speech": 67.74037787105598,
+  "frames": 2560
+ },
+ "B|template|sub-08|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 7,
+  "mcd": 29.47257898671749,
+  "mcd_speech": 66.9616388248173,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 8,
+  "mcd": 31.386738237829718,
+  "mcd_speech": 62.45456646379996,
+  "frames": 2560
+ },
+ "B|template|sub-08|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 8,
+  "mcd": 28.88541193356847,
+  "mcd_speech": 59.8230184349102,
+  "frames": 2560
+ },
+ "B|hybrid|sub-08|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-08",
+  "fold": 9,
+  "mcd": 31.226532861164024,
+  "mcd_speech": 69.42693605653946,
+  "frames": 2560
+ },
+ "B|template|sub-08|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-08",
+  "fold": 9,
+  "mcd": 29.64388057580236,
+  "mcd_speech": 67.02531347880456,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 0,
+  "mcd": 30.54319667493587,
+  "mcd_speech": 57.47587204643328,
+  "frames": 2560
+ },
+ "B|template|sub-09|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 0,
+  "mcd": 31.12564969061478,
+  "mcd_speech": 61.6834134476686,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 1,
+  "mcd": 29.568298049747977,
+  "mcd_speech": 64.11302362224735,
+  "frames": 2560
+ },
+ "B|template|sub-09|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 1,
+  "mcd": 27.688135254485587,
+  "mcd_speech": 56.81089064205907,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 2,
+  "mcd": 29.973155099425252,
+  "mcd_speech": 69.57257526248681,
+  "frames": 2560
+ },
+ "B|template|sub-09|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 2,
+  "mcd": 29.174317348174462,
+  "mcd_speech": 61.247715364080314,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 3,
+  "mcd": 30.383851198888816,
+  "mcd_speech": 58.94595190826835,
+  "frames": 2560
+ },
+ "B|template|sub-09|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 3,
+  "mcd": 28.991270431456723,
+  "mcd_speech": 58.18103195787109,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 4,
+  "mcd": 30.35467503410295,
+  "mcd_speech": 55.012756185357446,
+  "frames": 2560
+ },
+ "B|template|sub-09|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 4,
+  "mcd": 32.39447309662062,
+  "mcd_speech": 62.15628921740331,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 5,
+  "mcd": 30.627558633316795,
+  "mcd_speech": 58.47035378636813,
+  "frames": 2560
+ },
+ "B|template|sub-09|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 5,
+  "mcd": 30.464159990992222,
+  "mcd_speech": 61.686030272909214,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 6,
+  "mcd": 32.05181651061323,
+  "mcd_speech": 56.302827316396176,
+  "frames": 2560
+ },
+ "B|template|sub-09|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 6,
+  "mcd": 32.156557472174015,
+  "mcd_speech": 62.28539656635633,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 7,
+  "mcd": 27.7415645947351,
+  "mcd_speech": 58.42301886506599,
+  "frames": 2560
+ },
+ "B|template|sub-09|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 7,
+  "mcd": 27.836338627075133,
+  "mcd_speech": 57.2395250357863,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 8,
+  "mcd": 28.630422111174948,
+  "mcd_speech": 55.39815609048216,
+  "frames": 2560
+ },
+ "B|template|sub-09|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 8,
+  "mcd": 29.211917272032384,
+  "mcd_speech": 56.71178239137146,
+  "frames": 2560
+ },
+ "B|hybrid|sub-09|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-09",
+  "fold": 9,
+  "mcd": 27.89960539870761,
+  "mcd_speech": 50.4811747266014,
+  "frames": 2560
+ },
+ "B|template|sub-09|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-09",
+  "fold": 9,
+  "mcd": 27.962122420678202,
+  "mcd_speech": 54.998302268940954,
+  "frames": 2560
+ },
+ "B|hybrid|sub-10|0": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 0,
+  "mcd": 32.21007459814015,
+  "mcd_speech": 64.26463193676906,
+  "frames": 2304
+ },
+ "B|template|sub-10|0": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 0,
+  "mcd": 32.41434559282848,
+  "mcd_speech": 70.13479156555015,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|1": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 1,
+  "mcd": 27.709674714763782,
+  "mcd_speech": 68.32749758420346,
+  "frames": 2304
+ },
+ "B|template|sub-10|1": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 1,
+  "mcd": 31.76989009868694,
+  "mcd_speech": 75.23810706082833,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|2": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 2,
+  "mcd": 28.44197238775422,
+  "mcd_speech": 66.22998240569426,
+  "frames": 2304
+ },
+ "B|template|sub-10|2": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 2,
+  "mcd": 29.568253745343668,
+  "mcd_speech": 73.81107378030198,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|3": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 3,
+  "mcd": 26.79401510156776,
+  "mcd_speech": 68.237782534922,
+  "frames": 2304
+ },
+ "B|template|sub-10|3": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 3,
+  "mcd": 26.959365348312115,
+  "mcd_speech": 70.92657398022723,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|4": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 4,
+  "mcd": 27.994136510122587,
+  "mcd_speech": 67.01456299386382,
+  "frames": 2304
+ },
+ "B|template|sub-10|4": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 4,
+  "mcd": 27.908884693544152,
+  "mcd_speech": 71.91533941521882,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|5": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 5,
+  "mcd": 26.328735318543394,
+  "mcd_speech": 62.508217652569584,
+  "frames": 2304
+ },
+ "B|template|sub-10|5": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 5,
+  "mcd": 28.315203266491306,
+  "mcd_speech": 73.92098540035903,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|6": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 6,
+  "mcd": 28.059027063271046,
+  "mcd_speech": 74.81139447728737,
+  "frames": 2304
+ },
+ "B|template|sub-10|6": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 6,
+  "mcd": 31.77130365402502,
+  "mcd_speech": 83.29954259119802,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|7": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 7,
+  "mcd": 30.068461198471013,
+  "mcd_speech": 75.30530227699414,
+  "frames": 2304
+ },
+ "B|template|sub-10|7": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 7,
+  "mcd": 30.38221883362174,
+  "mcd_speech": 82.14739580040666,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|8": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 8,
+  "mcd": 28.314000318980312,
+  "mcd_speech": 63.89241721365177,
+  "frames": 2304
+ },
+ "B|template|sub-10|8": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 8,
+  "mcd": 30.086736931247792,
+  "mcd_speech": 75.07334356401216,
+  "frames": 2304
+ },
+ "B|hybrid|sub-10|9": {
+  "stage": "B",
+  "system": "hybrid",
+  "subject": "sub-10",
+  "fold": 9,
+  "mcd": 27.89985273998463,
+  "mcd_speech": 74.68878736416167,
+  "frames": 2304
+ },
+ "B|template|sub-10|9": {
+  "stage": "B",
+  "system": "template",
+  "subject": "sub-10",
+  "fold": 9,
+  "mcd": 26.847954542412342,
+  "mcd_speech": 76.31543031966117,
+  "frames": 2304
+ },
+ "B|linear|sub-01|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 0,
+  "mcd": 40.16736148270999,
+  "mcd_speech": 63.78081337227576,
+  "frames": 2560
+ },
+ "B|linear|sub-01|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 1,
+  "mcd": 36.71931565834352,
+  "mcd_speech": 63.073996557594924,
+  "frames": 2560
+ },
+ "B|linear|sub-01|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 2,
+  "mcd": 37.53066809791088,
+  "mcd_speech": 71.06894921301694,
+  "frames": 2560
+ },
+ "B|linear|sub-01|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 3,
+  "mcd": 34.402412800106745,
+  "mcd_speech": 67.68413741538652,
+  "frames": 2560
+ },
+ "B|linear|sub-01|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 4,
+  "mcd": 32.774633035494375,
+  "mcd_speech": 65.91628510434992,
+  "frames": 2560
+ },
+ "B|linear|sub-01|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 5,
+  "mcd": 34.98725600744488,
+  "mcd_speech": 68.90848465169616,
+  "frames": 2560
+ },
+ "B|linear|sub-01|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 6,
+  "mcd": 32.710738372262384,
+  "mcd_speech": 67.00218719381051,
+  "frames": 2560
+ },
+ "B|linear|sub-01|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 7,
+  "mcd": 32.96766899028713,
+  "mcd_speech": 63.31214156367567,
+  "frames": 2560
+ },
+ "B|linear|sub-01|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 8,
+  "mcd": 29.406033242074066,
+  "mcd_speech": 61.560257032399846,
+  "frames": 2560
+ },
+ "B|linear|sub-01|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-01",
+  "fold": 9,
+  "mcd": 33.86199581738738,
+  "mcd_speech": 71.68525961348303,
+  "frames": 2560
+ },
+ "B|linear|sub-02|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 0,
+  "mcd": 39.68606814257104,
+  "mcd_speech": 72.19781117769604,
+  "frames": 2560
+ },
+ "B|linear|sub-02|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 1,
+  "mcd": 33.76849598952607,
+  "mcd_speech": 68.66410362279429,
+  "frames": 2560
+ },
+ "B|linear|sub-02|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 2,
+  "mcd": 36.9352103676214,
+  "mcd_speech": 70.38719751110628,
+  "frames": 2560
+ },
+ "B|linear|sub-02|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 3,
+  "mcd": 40.935275751720454,
+  "mcd_speech": 78.44350607895399,
+  "frames": 2560
+ },
+ "B|linear|sub-02|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 4,
+  "mcd": 37.80561660494859,
+  "mcd_speech": 75.68837552213144,
+  "frames": 2560
+ },
+ "B|linear|sub-02|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 5,
+  "mcd": 36.90297579314925,
+  "mcd_speech": 71.55371445408149,
+  "frames": 2560
+ },
+ "B|linear|sub-02|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 6,
+  "mcd": 37.57483454437966,
+  "mcd_speech": 73.9898330719038,
+  "frames": 2560
+ },
+ "B|linear|sub-02|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 7,
+  "mcd": 34.5009658291976,
+  "mcd_speech": 69.98791203038758,
+  "frames": 2560
+ },
+ "B|linear|sub-02|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 8,
+  "mcd": 37.12567022973684,
+  "mcd_speech": 74.03217726410591,
+  "frames": 2560
+ },
+ "B|linear|sub-02|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-02",
+  "fold": 9,
+  "mcd": 39.80243250762394,
+  "mcd_speech": 73.73553708397219,
+  "frames": 2560
+ },
+ "B|linear|sub-03|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 0,
+  "mcd": 38.306206820286306,
+  "mcd_speech": 56.70826307953977,
+  "frames": 2560
+ },
+ "B|linear|sub-03|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 1,
+  "mcd": 31.41858876390973,
+  "mcd_speech": 55.9701262672782,
+  "frames": 2560
+ },
+ "B|linear|sub-03|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 2,
+  "mcd": 31.620692110502592,
+  "mcd_speech": 57.21267982771316,
+  "frames": 2560
+ },
+ "B|linear|sub-03|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 3,
+  "mcd": 32.34483209768186,
+  "mcd_speech": 59.084700241957336,
+  "frames": 2560
+ },
+ "B|linear|sub-03|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 4,
+  "mcd": 32.38886998345638,
+  "mcd_speech": 60.58020427681786,
+  "frames": 2560
+ },
+ "B|linear|sub-03|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 5,
+  "mcd": 30.840528659396597,
+  "mcd_speech": 53.83033641412601,
+  "frames": 2560
+ },
+ "B|linear|sub-03|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 6,
+  "mcd": 31.505014617939366,
+  "mcd_speech": 56.89450932696664,
+  "frames": 2560
+ },
+ "B|linear|sub-03|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 7,
+  "mcd": 29.48016254586948,
+  "mcd_speech": 57.71212701001442,
+  "frames": 2560
+ },
+ "B|linear|sub-03|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 8,
+  "mcd": 30.1371541302428,
+  "mcd_speech": 55.19732213845158,
+  "frames": 2560
+ },
+ "B|linear|sub-03|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-03",
+  "fold": 9,
+  "mcd": 31.23487178004053,
+  "mcd_speech": 56.988039942154174,
+  "frames": 2560
+ },
+ "B|linear|sub-04|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 0,
+  "mcd": 35.427192589243454,
+  "mcd_speech": 62.530892755619064,
+  "frames": 2560
+ },
+ "B|linear|sub-04|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 1,
+  "mcd": 35.55834533704534,
+  "mcd_speech": 63.201508182362815,
+  "frames": 2560
+ },
+ "B|linear|sub-04|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 2,
+  "mcd": 31.363890947824395,
+  "mcd_speech": 59.381563496470335,
+  "frames": 2560
+ },
+ "B|linear|sub-04|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 3,
+  "mcd": 31.72096448182582,
+  "mcd_speech": 61.00305151680361,
+  "frames": 2560
+ },
+ "B|linear|sub-04|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 4,
+  "mcd": 32.50793022336961,
+  "mcd_speech": 63.03083880121426,
+  "frames": 2560
+ },
+ "B|linear|sub-04|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 5,
+  "mcd": 31.41743418076369,
+  "mcd_speech": 57.76019090674515,
+  "frames": 2560
+ },
+ "B|linear|sub-04|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 6,
+  "mcd": 32.608535583748434,
+  "mcd_speech": 62.82917675690006,
+  "frames": 2560
+ },
+ "B|linear|sub-04|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 7,
+  "mcd": 34.63295986984762,
+  "mcd_speech": 63.52079147532891,
+  "frames": 2560
+ },
+ "B|linear|sub-04|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 8,
+  "mcd": 30.955821909480584,
+  "mcd_speech": 62.60564392253003,
+  "frames": 2560
+ },
+ "B|linear|sub-04|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-04",
+  "fold": 9,
+  "mcd": 31.522744763883804,
+  "mcd_speech": 62.372729834532386,
+  "frames": 2560
+ },
+ "B|linear|sub-05|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 0,
+  "mcd": 39.751547729755735,
+  "mcd_speech": 69.73426014254869,
+  "frames": 2560
+ },
+ "B|linear|sub-05|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 1,
+  "mcd": 35.61528981314056,
+  "mcd_speech": 68.58418103704082,
+  "frames": 2560
+ },
+ "B|linear|sub-05|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 2,
+  "mcd": 36.74444660861705,
+  "mcd_speech": 71.14598573699378,
+  "frames": 2560
+ },
+ "B|linear|sub-05|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 3,
+  "mcd": 39.428926670838145,
+  "mcd_speech": 68.14154516493907,
+  "frames": 2560
+ },
+ "B|linear|sub-05|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 4,
+  "mcd": 38.94462447758333,
+  "mcd_speech": 68.82062511502261,
+  "frames": 2560
+ },
+ "B|linear|sub-05|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 5,
+  "mcd": 36.9813469903731,
+  "mcd_speech": 72.05232825604722,
+  "frames": 2560
+ },
+ "B|linear|sub-05|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 6,
+  "mcd": 38.03192525518688,
+  "mcd_speech": 72.34878512120281,
+  "frames": 2560
+ },
+ "B|linear|sub-05|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 7,
+  "mcd": 37.78340749954704,
+  "mcd_speech": 73.1322737024144,
+  "frames": 2560
+ },
+ "B|linear|sub-05|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 8,
+  "mcd": 35.666901586417794,
+  "mcd_speech": 74.98749789045176,
+  "frames": 2560
+ },
+ "B|linear|sub-05|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-05",
+  "fold": 9,
+  "mcd": 41.0088440876359,
+  "mcd_speech": 78.02959688846985,
+  "frames": 2560
+ },
+ "B|linear|sub-06|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 0,
+  "mcd": 32.119914977496514,
+  "mcd_speech": 60.45248499070362,
+  "frames": 2560
+ },
+ "B|linear|sub-06|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 1,
+  "mcd": 29.61894450750865,
+  "mcd_speech": 59.186942396008995,
+  "frames": 2560
+ },
+ "B|linear|sub-06|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 2,
+  "mcd": 27.379195843076037,
+  "mcd_speech": 57.57943204488031,
+  "frames": 2560
+ },
+ "B|linear|sub-06|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 3,
+  "mcd": 26.191147762256854,
+  "mcd_speech": 54.78941223908939,
+  "frames": 2560
+ },
+ "B|linear|sub-06|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 4,
+  "mcd": 27.963950761433644,
+  "mcd_speech": 59.29509370459803,
+  "frames": 2560
+ },
+ "B|linear|sub-06|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 5,
+  "mcd": 29.592534585367474,
+  "mcd_speech": 58.421706351111865,
+  "frames": 2560
+ },
+ "B|linear|sub-06|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 6,
+  "mcd": 27.721170957823027,
+  "mcd_speech": 55.645069107611974,
+  "frames": 2560
+ },
+ "B|linear|sub-06|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 7,
+  "mcd": 29.011207252556822,
+  "mcd_speech": 55.59852362959994,
+  "frames": 2560
+ },
+ "B|linear|sub-06|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 8,
+  "mcd": 28.988366680071202,
+  "mcd_speech": 56.25038894321017,
+  "frames": 2560
+ },
+ "B|linear|sub-06|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-06",
+  "fold": 9,
+  "mcd": 25.931915152671166,
+  "mcd_speech": 50.38800362000935,
+  "frames": 2560
+ },
+ "B|linear|sub-07|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 0,
+  "mcd": 31.41991394569382,
+  "mcd_speech": 63.142701430160415,
+  "frames": 2560
+ },
+ "B|linear|sub-07|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 1,
+  "mcd": 33.63687882235772,
+  "mcd_speech": 60.14988457300043,
+  "frames": 2560
+ },
+ "B|linear|sub-07|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 2,
+  "mcd": 31.94111074531609,
+  "mcd_speech": 62.401678710479096,
+  "frames": 2560
+ },
+ "B|linear|sub-07|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 3,
+  "mcd": 30.452422262013094,
+  "mcd_speech": 58.11837962942594,
+  "frames": 2560
+ },
+ "B|linear|sub-07|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 4,
+  "mcd": 28.104879843748467,
+  "mcd_speech": 55.91520900820229,
+  "frames": 2560
+ },
+ "B|linear|sub-07|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 5,
+  "mcd": 33.553722325363026,
+  "mcd_speech": 65.06681396714022,
+  "frames": 2560
+ },
+ "B|linear|sub-07|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 6,
+  "mcd": 32.252540104293935,
+  "mcd_speech": 59.33505840580853,
+  "frames": 2560
+ },
+ "B|linear|sub-07|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 7,
+  "mcd": 28.698159679883407,
+  "mcd_speech": 61.3594836568646,
+  "frames": 2560
+ },
+ "B|linear|sub-07|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 8,
+  "mcd": 32.0306677883432,
+  "mcd_speech": 65.18640826572523,
+  "frames": 2560
+ },
+ "B|linear|sub-07|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-07",
+  "fold": 9,
+  "mcd": 29.49580832639798,
+  "mcd_speech": 55.00504621548241,
+  "frames": 2560
+ },
+ "B|linear|sub-08|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 0,
+  "mcd": 35.421595418665675,
+  "mcd_speech": 59.652316163188196,
+  "frames": 2560
+ },
+ "B|linear|sub-08|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 1,
+  "mcd": 33.22357801745993,
+  "mcd_speech": 61.64253690874048,
+  "frames": 2560
+ },
+ "B|linear|sub-08|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 2,
+  "mcd": 32.24789876983274,
+  "mcd_speech": 61.95896256231772,
+  "frames": 2560
+ },
+ "B|linear|sub-08|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 3,
+  "mcd": 33.35520305121065,
+  "mcd_speech": 67.9356832974212,
+  "frames": 2560
+ },
+ "B|linear|sub-08|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 4,
+  "mcd": 32.993802753429804,
+  "mcd_speech": 63.31607231652339,
+  "frames": 2560
+ },
+ "B|linear|sub-08|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 5,
+  "mcd": 33.182802425481945,
+  "mcd_speech": 66.85799083386799,
+  "frames": 2560
+ },
+ "B|linear|sub-08|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 6,
+  "mcd": 34.08802546318377,
+  "mcd_speech": 67.61504817130512,
+  "frames": 2560
+ },
+ "B|linear|sub-08|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 7,
+  "mcd": 32.741636203064374,
+  "mcd_speech": 70.37033584886944,
+  "frames": 2560
+ },
+ "B|linear|sub-08|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 8,
+  "mcd": 34.3575537883345,
+  "mcd_speech": 62.111562028834506,
+  "frames": 2560
+ },
+ "B|linear|sub-08|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-08",
+  "fold": 9,
+  "mcd": 33.9161223941272,
+  "mcd_speech": 62.74218161024721,
+  "frames": 2560
+ },
+ "B|linear|sub-09|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 0,
+  "mcd": 33.10041458087154,
+  "mcd_speech": 64.6413308840906,
+  "frames": 2560
+ },
+ "B|linear|sub-09|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 1,
+  "mcd": 30.315532370376594,
+  "mcd_speech": 58.59217587439222,
+  "frames": 2560
+ },
+ "B|linear|sub-09|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 2,
+  "mcd": 31.74034360663081,
+  "mcd_speech": 64.89792893672835,
+  "frames": 2560
+ },
+ "B|linear|sub-09|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 3,
+  "mcd": 32.885548108177815,
+  "mcd_speech": 66.7669423922847,
+  "frames": 2560
+ },
+ "B|linear|sub-09|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 4,
+  "mcd": 34.19603612849811,
+  "mcd_speech": 65.63394677300711,
+  "frames": 2560
+ },
+ "B|linear|sub-09|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 5,
+  "mcd": 34.29602050057245,
+  "mcd_speech": 67.93610095086532,
+  "frames": 2560
+ },
+ "B|linear|sub-09|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 6,
+  "mcd": 34.811904896158396,
+  "mcd_speech": 62.732916026084595,
+  "frames": 2560
+ },
+ "B|linear|sub-09|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 7,
+  "mcd": 31.152959949544517,
+  "mcd_speech": 60.90248018416972,
+  "frames": 2560
+ },
+ "B|linear|sub-09|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 8,
+  "mcd": 32.08438557827734,
+  "mcd_speech": 63.54716652837493,
+  "frames": 2560
+ },
+ "B|linear|sub-09|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-09",
+  "fold": 9,
+  "mcd": 32.17249048337899,
+  "mcd_speech": 59.725569107503766,
+  "frames": 2560
+ },
+ "B|linear|sub-10|0": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 0,
+  "mcd": 35.9143493390993,
+  "mcd_speech": 64.08704967132753,
+  "frames": 2304
+ },
+ "B|linear|sub-10|1": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 1,
+  "mcd": 30.641929336024322,
+  "mcd_speech": 67.5119048054597,
+  "frames": 2304
+ },
+ "B|linear|sub-10|2": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 2,
+  "mcd": 29.847919262339953,
+  "mcd_speech": 65.0621190435934,
+  "frames": 2304
+ },
+ "B|linear|sub-10|3": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 3,
+  "mcd": 28.71936305765829,
+  "mcd_speech": 70.94307429929437,
+  "frames": 2304
+ },
+ "B|linear|sub-10|4": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 4,
+  "mcd": 29.813760436887506,
+  "mcd_speech": 70.78089395598133,
+  "frames": 2304
+ },
+ "B|linear|sub-10|5": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 5,
+  "mcd": 27.731973597915477,
+  "mcd_speech": 67.15791319437565,
+  "frames": 2304
+ },
+ "B|linear|sub-10|6": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 6,
+  "mcd": 30.764028723371755,
+  "mcd_speech": 77.62760420990165,
+  "frames": 2304
+ },
+ "B|linear|sub-10|7": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 7,
+  "mcd": 31.506112144743685,
+  "mcd_speech": 75.34416052196218,
+  "frames": 2304
+ },
+ "B|linear|sub-10|8": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 8,
+  "mcd": 29.99773271084477,
+  "mcd_speech": 65.44785129096027,
+  "frames": 2304
+ },
+ "B|linear|sub-10|9": {
+  "stage": "B",
+  "system": "linear",
+  "subject": "sub-10",
+  "fold": 9,
+  "mcd": 30.3612043206644,
+  "mcd_speech": 71.1496798032777,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-01|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 0,
+  "mcd": 38.758862249410605,
+  "mcd_speech": 72.8436589229725,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 1,
+  "mcd": 34.871871766592925,
+  "mcd_speech": 75.58711083373368,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 2,
+  "mcd": 37.9680252795916,
+  "mcd_speech": 80.33517708922516,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 3,
+  "mcd": 35.632891901623964,
+  "mcd_speech": 73.76654649292045,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 4,
+  "mcd": 35.03947227870049,
+  "mcd_speech": 72.27837780061454,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 5,
+  "mcd": 36.78554472916342,
+  "mcd_speech": 79.36154661130853,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 6,
+  "mcd": 35.38660620619112,
+  "mcd_speech": 71.81541279457117,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 7,
+  "mcd": 34.374205351817906,
+  "mcd_speech": 69.39156301743469,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 8,
+  "mcd": 32.71463118655595,
+  "mcd_speech": 68.22788667872786,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-01|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-01",
+  "fold": 9,
+  "mcd": 36.94422236360759,
+  "mcd_speech": 78.8730312593153,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 0,
+  "mcd": 37.85609486020779,
+  "mcd_speech": 71.80199758133845,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 1,
+  "mcd": 31.660291461189082,
+  "mcd_speech": 66.85763016537977,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 2,
+  "mcd": 34.32491443282849,
+  "mcd_speech": 69.23360688694646,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 3,
+  "mcd": 39.6548345663964,
+  "mcd_speech": 78.42053647820218,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 4,
+  "mcd": 36.42734967469549,
+  "mcd_speech": 76.00657294966037,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 5,
+  "mcd": 35.52775585108086,
+  "mcd_speech": 65.08546736584206,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 6,
+  "mcd": 36.115061799262946,
+  "mcd_speech": 73.74679912904138,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 7,
+  "mcd": 33.538123600708424,
+  "mcd_speech": 69.30141685146826,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 8,
+  "mcd": 36.81378021766017,
+  "mcd_speech": 75.477246775755,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-02|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-02",
+  "fold": 9,
+  "mcd": 37.10512021968417,
+  "mcd_speech": 73.20782470158088,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 0,
+  "mcd": 46.37649115781963,
+  "mcd_speech": 77.92726794415587,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 1,
+  "mcd": 30.692848902250102,
+  "mcd_speech": 56.19266613462741,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 2,
+  "mcd": 38.51784134684211,
+  "mcd_speech": 72.59482857698414,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 3,
+  "mcd": 42.115086983410265,
+  "mcd_speech": 76.5765224487489,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 4,
+  "mcd": 32.156879657202005,
+  "mcd_speech": 59.556201540845876,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 5,
+  "mcd": 40.51888158676554,
+  "mcd_speech": 72.89420554050459,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 6,
+  "mcd": 41.24868462997997,
+  "mcd_speech": 76.59086141193671,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 7,
+  "mcd": 40.18683721128431,
+  "mcd_speech": 77.27923825822838,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 8,
+  "mcd": 28.903828997069716,
+  "mcd_speech": 54.88749789645212,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-03|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-03",
+  "fold": 9,
+  "mcd": 30.038831322148418,
+  "mcd_speech": 56.275802797228636,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 0,
+  "mcd": 34.17006416015829,
+  "mcd_speech": 61.88236151874207,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 1,
+  "mcd": 33.907247822941166,
+  "mcd_speech": 63.30720371221263,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 2,
+  "mcd": 29.76476627500968,
+  "mcd_speech": 59.646262012897296,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 3,
+  "mcd": 30.870509392429323,
+  "mcd_speech": 60.16818678747756,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 4,
+  "mcd": 32.08750752067964,
+  "mcd_speech": 66.13397015390588,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 5,
+  "mcd": 30.834285000783588,
+  "mcd_speech": 57.95354154791776,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 6,
+  "mcd": 31.972447717943044,
+  "mcd_speech": 62.802729454531985,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 7,
+  "mcd": 33.059937108568654,
+  "mcd_speech": 62.42008615565977,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 8,
+  "mcd": 29.81441157344208,
+  "mcd_speech": 61.99957051893168,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-04|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-04",
+  "fold": 9,
+  "mcd": 30.11483677348682,
+  "mcd_speech": 59.82614003543482,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 0,
+  "mcd": 38.04243542779371,
+  "mcd_speech": 68.06957796967654,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 1,
+  "mcd": 38.53105914313224,
+  "mcd_speech": 73.54295630342408,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 2,
+  "mcd": 40.27767118812805,
+  "mcd_speech": 78.30834613730582,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 3,
+  "mcd": 41.12091548591833,
+  "mcd_speech": 76.40457546646974,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 4,
+  "mcd": 37.29891453878567,
+  "mcd_speech": 64.76741551736542,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 5,
+  "mcd": 35.93209933170847,
+  "mcd_speech": 68.79825563475767,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 6,
+  "mcd": 37.89957625683466,
+  "mcd_speech": 69.59430253146799,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 7,
+  "mcd": 37.104206828265966,
+  "mcd_speech": 76.99228673808085,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 8,
+  "mcd": 34.46601961849054,
+  "mcd_speech": 73.74562459157828,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-05|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-05",
+  "fold": 9,
+  "mcd": 39.21888918968864,
+  "mcd_speech": 74.35145734793231,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 0,
+  "mcd": 32.006385337086705,
+  "mcd_speech": 61.62161461642876,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 1,
+  "mcd": 29.633876114683243,
+  "mcd_speech": 58.704028410462605,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 2,
+  "mcd": 28.051474538844502,
+  "mcd_speech": 59.1889785455099,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 3,
+  "mcd": 26.560933192057156,
+  "mcd_speech": 55.04457043504018,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 4,
+  "mcd": 28.483458832539576,
+  "mcd_speech": 59.42278652439985,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 5,
+  "mcd": 28.99404261499953,
+  "mcd_speech": 58.16092399373631,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 6,
+  "mcd": 28.265699758678927,
+  "mcd_speech": 55.55008374382478,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 7,
+  "mcd": 29.337472632378773,
+  "mcd_speech": 55.855903942094955,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 8,
+  "mcd": 29.167973251801055,
+  "mcd_speech": 57.57845442440655,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-06|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-06",
+  "fold": 9,
+  "mcd": 25.755967245486126,
+  "mcd_speech": 50.71095517833854,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 0,
+  "mcd": 31.771582290322137,
+  "mcd_speech": 60.737688239090474,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 1,
+  "mcd": 33.57268910971029,
+  "mcd_speech": 58.65475485112124,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 2,
+  "mcd": 28.80909374023483,
+  "mcd_speech": 59.85738971821134,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 3,
+  "mcd": 30.8444500811367,
+  "mcd_speech": 61.43963104938721,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 4,
+  "mcd": 27.341338345785154,
+  "mcd_speech": 57.35698626619553,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 5,
+  "mcd": 32.7665105338361,
+  "mcd_speech": 65.77171275231792,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 6,
+  "mcd": 28.517582577608476,
+  "mcd_speech": 59.31278621539147,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 7,
+  "mcd": 27.931241106212337,
+  "mcd_speech": 60.24643969500204,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 8,
+  "mcd": 31.306757972628567,
+  "mcd_speech": 66.62389096299819,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-07|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-07",
+  "fold": 9,
+  "mcd": 28.02974329170262,
+  "mcd_speech": 54.34428879829914,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 0,
+  "mcd": 35.35821876927194,
+  "mcd_speech": 61.65434620235737,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 1,
+  "mcd": 33.17355781708723,
+  "mcd_speech": 62.745327992507974,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 2,
+  "mcd": 32.134574177935164,
+  "mcd_speech": 62.48824912046694,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 3,
+  "mcd": 32.46790308700245,
+  "mcd_speech": 68.61005683091135,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 4,
+  "mcd": 33.03193902648253,
+  "mcd_speech": 66.44299704124515,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 5,
+  "mcd": 32.173549563911095,
+  "mcd_speech": 68.28776433726662,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 6,
+  "mcd": 33.72939104107064,
+  "mcd_speech": 69.10077979388802,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 7,
+  "mcd": 32.3758497063057,
+  "mcd_speech": 70.8971306696072,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 8,
+  "mcd": 33.54821985760615,
+  "mcd_speech": 64.16783553049378,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-08|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-08",
+  "fold": 9,
+  "mcd": 32.84597333574546,
+  "mcd_speech": 64.68606150276825,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 0,
+  "mcd": 32.77073941113072,
+  "mcd_speech": 66.54112876643804,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 1,
+  "mcd": 36.042006795421095,
+  "mcd_speech": 81.77737960446082,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 2,
+  "mcd": 36.060120264426345,
+  "mcd_speech": 77.79939546449145,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 3,
+  "mcd": 35.648173846018906,
+  "mcd_speech": 79.4210309207984,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 4,
+  "mcd": 39.582525502152194,
+  "mcd_speech": 78.44874406208645,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 5,
+  "mcd": 39.26286406491747,
+  "mcd_speech": 82.39923405716202,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 6,
+  "mcd": 31.740923707224766,
+  "mcd_speech": 58.325232749117255,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 7,
+  "mcd": 29.592104202240968,
+  "mcd_speech": 58.970370290616586,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 8,
+  "mcd": 30.685595875127298,
+  "mcd_speech": 56.74491127790269,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-09|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-09",
+  "fold": 9,
+  "mcd": 36.15056462912122,
+  "mcd_speech": 81.31135970357688,
+  "frames": 2560
+ },
+ "B|neuroincept|sub-10|0": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 0,
+  "mcd": 33.55769126075682,
+  "mcd_speech": 63.2638892491307,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|1": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 1,
+  "mcd": 29.5644401106783,
+  "mcd_speech": 69.63588715587306,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|2": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 2,
+  "mcd": 29.39688310417532,
+  "mcd_speech": 64.24145201400658,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|3": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 3,
+  "mcd": 27.398445503270008,
+  "mcd_speech": 74.04488552825283,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|4": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 4,
+  "mcd": 27.135682635471216,
+  "mcd_speech": 67.28930865140983,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|5": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 5,
+  "mcd": 27.11082858694426,
+  "mcd_speech": 67.89750539846429,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|6": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 6,
+  "mcd": 29.013208906540328,
+  "mcd_speech": 77.36413974100864,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|7": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 7,
+  "mcd": 30.178859880573555,
+  "mcd_speech": 77.64893536922006,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|8": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 8,
+  "mcd": 30.183215205166473,
+  "mcd_speech": 71.33913796274666,
+  "frames": 2304
+ },
+ "B|neuroincept|sub-10|9": {
+  "stage": "B",
+  "system": "neuroincept",
+  "subject": "sub-10",
+  "fold": 9,
+  "mcd": 28.432704512584472,
+  "mcd_speech": 75.71704590968284,
+  "frames": 2304
+ }
+}

@@ -1,0 +1,72 @@
+{
+ "sub-01": {
+  "subject": "sub-01",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.4739345427315402,
+  "estoi": 0.01372332201428903
+ },
+ "sub-02": {
+  "subject": "sub-02",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.45699485437344556,
+  "estoi": -0.01160242283553642
+ },
+ "sub-03": {
+  "subject": "sub-03",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.5032671033092597,
+  "estoi": 0.005919757310658356
+ },
+ "sub-04": {
+  "subject": "sub-04",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.472306743056891,
+  "estoi": -0.005603779426975792
+ },
+ "sub-05": {
+  "subject": "sub-05",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.5105739023119914,
+  "estoi": 0.012332766507832731
+ },
+ "sub-06": {
+  "subject": "sub-06",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.5419591792401618,
+  "estoi": 0.007326511586823175
+ },
+ "sub-07": {
+  "subject": "sub-07",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.537984416357895,
+  "estoi": -0.0038827662248562965
+ },
+ "sub-08": {
+  "subject": "sub-08",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.468530783906226,
+  "estoi": 0.005672441231733664
+ },
+ "sub-09": {
+  "subject": "sub-09",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.5074317589388136,
+  "estoi": 0.023706818119458874
+ },
+ "sub-10": {
+  "subject": "sub-10",
+  "system": "constant",
+  "fold": 0,
+  "stoi": 0.5500122004950886,
+  "estoi": -0.007595923261748129
+ }
+}
